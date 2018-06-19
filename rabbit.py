@@ -284,7 +284,7 @@ body {
 </div>
 
 <div id="navbar">
-  <a class="active" href="javascript:void(0)">Home</a>
+  <a class="active" href="__gohome__">Home</a>
   <a href="javascript:void(0)">News</a>
   <a href="javascript:void(0)">Contact</a>
 </div>
@@ -330,6 +330,7 @@ __output__<br>
 
 index_html = template
 index_html = index_html.replace('__development_version__', DEVELOPMENT_VERSION)
+index_html = index_html.replace('__gohome__', 'index.html')
 index_html = index_html.replace('__datetime__', time.asctime())
 index_html = index_html.replace('__categories__', '<br>'.join([html_link(text.strip(), 'index.html#' + ''.join(text.split()).strip()) for text in txt_categories]))
 index_html = index_html.replace('__output__', generate_results())
