@@ -5,7 +5,7 @@ from urllib.parse import urlparse
 
 DEVELOPMENT_VERSION = 'beta'
 DEPLOYMENT_ACTIVE = False
-APACHE_DIR = '/var/www/html' if DEPLOYMENT_ACTIVE else ''
+APACHE_DIR = '/var/www/html/' if DEPLOYMENT_ACTIVE else ''
 RABBIT_DIR = '/home/supremeleader/' if DEPLOYMENT_ACTIVE else ''
 
 
