@@ -3,6 +3,7 @@ http://feeds.bbci.co.uk/news/rss.xml?edition=us
 http://feeds.bbci.co.uk/news/rss.xml?edition=int
 http://hbswk.hbs.edu/stories-rss.aspx
 http://www.eurekalert.org/rss/technology_engineering.xml
+https://spectrum.ieee.org/rss/aerospace/fulltext
 https://spectrum.ieee.org/rss/fulltext
 https://www.wired.com/feed/rss
 https://www.wired.com/feed/category/ideas/latest/rss
