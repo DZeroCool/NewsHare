@@ -9,7 +9,7 @@ APACHE_DIR = '/var/www/html/' if DEPLOYMENT_ACTIVE else ''
 RABBIT_DIR = '/home/supremeleader/' if DEPLOYMENT_ACTIVE else ''
 DEGRADATION_DATE, EXPIRATION_DATE = 2, 9
 now = datetime.datetime.now()
-
+#this is a change delete later
 def getAgeInDays(entry):
     try:
         then = datetime.datetime(*entry['published_parsed'][:7])
