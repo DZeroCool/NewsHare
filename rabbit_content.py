@@ -87,7 +87,7 @@ addCategory('Money', money)
 
 space_stuff = """
 65: NASA
-25: astronomy
+25: astronomy, -gastronomy
 25: MIT
 500: faster than light
 500: faster-than-light
@@ -119,4 +119,4 @@ world_affairs = """
 """
 addCategory('World Affairs', world_affairs)
 
-matches, named_categories, qualifications = [], list(dict_categories.keys()), {}
+entries, named_categories = [], list(dict_categories.keys())

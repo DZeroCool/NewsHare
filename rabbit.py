@@ -4,12 +4,14 @@ from rabbit_content import *
 from urllib.parse import urlparse
 
 DEVELOPMENT_VERSION = 'beta'
-DEPLOYMENT_ACTIVE = True
+DEPLOYMENT_ACTIVE = False
 APACHE_DIR = '/var/www/html/' if DEPLOYMENT_ACTIVE else ''
 RABBIT_DIR = '/home/supremeleader/' if DEPLOYMENT_ACTIVE else ''
 DEGRADATION_DATE, EXPIRATION_DATE = 2, 9
 now = datetime.datetime.now()
-#this is a change delete later
+qualifications = {}
+list_entries = []
+
 def getAgeInDays(entry):
     try:
         then = datetime.datetime(*entry['published_parsed'][:7])
@@ -18,28 +20,9 @@ def getAgeInDays(entry):
     except:
         return None
 
-def isMatched(entry,criteria):
-    str_entry = str(entry).lower()
-    for criterion in criteria.split('\n'):
-        criterion = criterion.split('#')[0].strip()
-        if len(criterion) == 0: continue
-        try:
-            target = criterion[criterion.find(':')+1:]
-            tokens = [token.strip() for token in target.split(',')]
-            if len(tokens) > 0:
-                foundAll = True
-                for token in tokens:
-                    if not re.search(token, str_entry):
-                        foundAll = False
-                        break
-                if foundAll:
-                    return True
-        except:
-            pass
-    return False
-
 def qualification(entry,criteria):
     global qualifications
+    isMatched = False
     title = entry['title']
     qualifications[title] = []
     age = getAgeInDays(entry)
@@ -65,17 +48,26 @@ def qualification(entry,criteria):
     for weighted_criterion in sorted(weighted_criteria, reverse=True):
         weight, tokens = weighted_criterion[0], weighted_criterion[1]
         str_entry = str(entry).lower()
-        try:
+        if True:#try:
             foundAll = True
             for token in tokens:
+                exclusion = False
+                while token.startswith('-'):
+                    exclusion = True
+                    token = token[1:]
+                if exclusion and re.search(token, str_entry):
+                    return None
                 if not re.search(token, str_entry):
                     foundAll = False
                     break
             if foundAll:
+                isMatched = True
                 score = score + weight
                 qualifications[title].append((weight, token))
-        except:
+        else:#except:
             pass
+    if not isMatched:
+        return None
     return score
 
 def html_link(text, address):
@@ -99,47 +91,46 @@ def generate_results():
                     resultCount += 1
     output = ''
     for named_category in txt_categories:
+        list_matches = []
         category = dict_categories[named_category]
         output += '<span id="' + ''.join(named_category.split()) + '">' + '<br><br>' + '*'*10 + ' ' + named_category.upper() + ' ' + '*'*10 + '<br>' + html_link('return to top', 'index.html') + '<br><br><br></span>'
-        list_matches = list()
+        dict_entries = {}
+        weighted_entries = []
         for entry in entries:
-            if isMatched(entry, category):
-                list_matches.append(entry)
-
-        dict_matches = {}
-        weighted_matches = []
-        for match in list_matches:
-            score = qualification(match, category)
-            dict_matches[match['title']] = match
+            score = qualification(entry, category)
+            if score is None:
+                continue
+            dict_entries[entry['title']] = entry
+            list_matches.append(entry)
             try:
-                pp = match['published_parsed']
-                weighted_matches.append((score, (pp.tm_year, pp.tm_yday, pp.tm_hour*60+pp.tm_min), match['title']))
+                pp = entry['published_parsed']
+                weighted_entries.append((score, (pp.tm_year, pp.tm_yday, pp.tm_hour*60+pp.tm_min), entry['title']))
             except:
-                weighted_matches.append((score, (0,0,0), match['title']))
+                weighted_entries.append((score, (0,0,0), entry['title']))
 
         matchID = 0
-        for weighted_match in sorted(weighted_matches, reverse=True):
-            match = dict_matches[weighted_match[2]]
-            qualifiers = qualifications[match['title']]
-            output += '<big>' + html_link(match['title'], match['link']) + '</big><br>'
+        for weighted_entry in sorted(weighted_entries, reverse=True):
+            entry = dict_entries[weighted_entry[2]]
+            qualifiers = qualifications[entry['title']]
+            output += '<big>' + html_link(entry['title'], entry['link']) + '</big><br>'
             try:
-                output += match['published'] + '<br>'
+                output += entry['published'] + '<br>'
             except:
                 pass
             try:
-                output += match['description'] + '<br>'
+                output += entry['description'] + '<br>'
             except:
                 pass
-            output += 'Match ID: ' + str(matchID) + ' Score: %.2f' % weighted_match[0] + ' source: '+ urlparse(match['link']).netloc
-            age = getAgeInDays(match)
+            output += 'Match ID: ' + str(matchID) + ' Score: %.2f' % weighted_entry[0] + ' source: '+ urlparse(entry['link']).netloc
+            age = getAgeInDays(entry)
             if age is not None:
                 output += ' age: %d days' % age if age is not 1 else ' age: 1 day'
             output += '<br>qualifiers: ' + ', '.join(['%.2f %s' % (qualifier[0], qualifier[1]) for qualifier in qualifiers]) + '<br>'
             output += '<br>'
             matchID += 1
 
-        efficiency = 1 - len(list_matches) / resultCount
-        output += 'Filter efficiency %.3f (%d matches/%d results)' % (100*efficiency, len(list_matches), resultCount) + '<br>'
+        efficiency = 1 - matchID / resultCount
+        output += 'Filter efficiency %.3f (%d matches/%d results)' % (100*efficiency, matchID, resultCount) + '<br>'
     return output
 
 
