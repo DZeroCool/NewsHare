@@ -68,22 +68,121 @@ tech = """
 """
 addCategory('Technology', tech)
 
+business = """
+25: money
+20: economy
+25: stock-market
+25: stocks
+25: stockmarket
+10: wealth
+25: savings
+40: gold
+35: real esate
+30: finance
+40: saving
+20: business
+"""
+addCategory('Business', business)
+
+usa_politics = """
+30: politics
+60: gerrymandering
+55: midterms
+25: election
+30: united states, united states politics, republican, democrat
+20: Federal Government
+15: Legislature
+15: Executive
+15: Judiciary
+15: Elections
+15: Political parties
+15: Federalism
+15: liberals
+15: conservatives
+15: progressives
+15: libertarian
+15: constitution
+10: congress
+10: house of representatives
+10: speaker of the house
+10: senate majority leader
+"""
+addCategory('USA politics', usa_politics)
+
+asia = """
+50: china, china trade, china economy, asian economy, south china sea
+20: Malaysia
+20: Singapore
+30: South Korea
+15: Sri Lanka
+20: Taiwan
+20: Thailand
+15: Vietnam
+15: Philippines
+15: Laos
+10: Bangladesh
+25: Bhutan
+20: Cambodia
+35: India
+30: Indonesia
+40: japan
+"""
+addCategory('Asia', asia)
+
+europe = """
+35: europe
+20: EU,eu
+20: Brexit,brexit
+25: germany
+30: spain
+25: migrants
+"""
+addCategory('Europe', europe)
+
+college = """
+30: university,college,tuition
+"""
+addCategory('University', college)
+
+health = """
+30: healthy life, healthy life style, dieting, exercising
+"""
+addCategory('Health', health)
+
+law = """
+25: congress,bills,new law,judge, federal judges, judge appointments
+"""
+addCategory('Law', law)
+
+food = """
+30: food, meal recipes, budget recipes, recipes
+"""
+addCategory('Food', food)
+
+travel = """
+40: travel, cheap flights, travel adventures,budget traveling, recreation, summer activities, winter activities, fall activities, spring activities
+45: travel ideas, how to travel, travel guides
+"""
+addCategory('Travel', travel)
+
+music = """
+20: top songs
+15: best albums
+20: concerts, music concerts
+"""
+addCategory('Music', music)
+
+entertainment = """
+20: movies, new movies,best shows, best movies
+"""
+addCategory('Entertainment', entertainment)
+
 crypto = """
 20: crypto
 10: bitcoin
 15: altcoins
 15: alt coins"""
-addCategory('Cryptography', crypto)
-
-money = """
-25: money
-20: economy
-25: stock-market
-25: stockmarket
-10: wealth
-25: savings
-40: gold"""
-addCategory('Money', money)
+addCategory('Crypto', crypto)
 
 space_stuff = """
 65: NASA

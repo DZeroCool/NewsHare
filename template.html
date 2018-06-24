@@ -23,6 +23,15 @@ body, html {
     padding: 8px;
 } 
 </style>
+<!-- Categories columns
+-->
+<style>
+.newspaper {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
+</style>
 <body>
 
 <!-- Navbar (sit on top) -->
@@ -84,9 +93,13 @@ body, html {
  style="color: rgb(15, 24, 253);">RSS </span>Rabbit </big></big></big><br>
 __development_version__<br>
 <br> -->
-Categories:<br>
-__categories__<br>
-<br>
+
+<p><b><center>Categories</b></p>
+
+<div class="newspaper">
+__categories__
+</div>
+<br><br>
 Date/Time of Last Update: __datetime__ UTC<br>
 <br>
 <br></h3> 
@@ -164,7 +177,8 @@ Date/Time of Last Update: __datetime__ UTC<br>
     <i class="fa fa-twitter w3-hover-opacity"></i>
     <i class="fa fa-linkedin w3-hover-opacity"></i>
   </div>
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+  <!--
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p> -->
 </footer>
  
 <!-- Add Google Maps -->

@@ -74,7 +74,9 @@ def html_link(text, address):
     return '<a href=' + address + '>'+text + '</a>'
 
 def generate_results():
+    from collections import Counter
     global qualifications
+    all_titles = ""
     entries, setTitles = [], set()
     resultCount = 0
     for feed in feeds.split('\n'):
@@ -88,6 +90,7 @@ def generate_results():
                 if entry['title'] not in setTitles:
                     entries.append(entry)
                     setTitles.add(entry['title'])
+                    all_titles += " " + entry['title']
                     resultCount += 1
     output = ''
     for named_category in txt_categories:
@@ -131,6 +134,13 @@ def generate_results():
 
         efficiency = 1 - matchID / resultCount
         output += 'Filter efficiency %.3f (%d matches/%d results)' % (100*efficiency, matchID, resultCount) + '<br>'
+    freqOutput = ''
+    freqOutput += 'Title Word Frequencies:\n'
+    for v,k in sorted([(v,k) for k,v in Counter(all_titles.split()).items()])[::-1]:
+        freqOutput += '%5d: %s\n' % (v,k)
+    freqOutFile = open('Title Word Frequencies.txt', 'w', encoding='utf-8')
+    freqOutFile.write(freqOutput)
+    freqOutFile.close()
     return output
 
 
