@@ -4,7 +4,7 @@ from rabbit_content import *
 from urllib.parse import urlparse
 
 DEVELOPMENT_VERSION = 'beta'
-DEPLOYMENT_ACTIVE = True
+DEPLOYMENT_ACTIVE = False
 APACHE_DIR = '/var/www/html/' if DEPLOYMENT_ACTIVE else ''
 RABBIT_DIR = '/home/supremeleader/' if DEPLOYMENT_ACTIVE else ''
 DEGRADATION_DATE, EXPIRATION_DATE = 2, 9
@@ -96,7 +96,7 @@ def generate_results():
     for named_category in txt_categories:
         list_matches = []
         category = dict_categories[named_category]
-        output += '<span id="' + ''.join(named_category.split()) + '">' + '<br><br>' + '*'*10 + ' ' + named_category.upper() + ' ' + '*'*10 + '<br>' + html_link('return to top', 'index.html') + '<br><br><br></span>'
+        output += '<span id="' + ''.join(named_category.split()) + '">' + '<br><br>' + '*'*10 + ' ' + named_category.upper() + ' ' + '*'*10 + '<br>' + html_link('return to top', 'index.html') + '<br><br><br><br></span>'
         dict_entries = {}
         weighted_entries = []
         for entry in entries:

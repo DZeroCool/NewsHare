@@ -36,13 +36,37 @@ http://www.nasa.gov/rss/dyn/earth.rss
 http://www.nasa.gov/rss/dyn/aeronautics.rss
 http://www.esa.int/rssfeed/HSF
 http://feeds.bbci.co.uk/news/science_and_environment/rss.xml?edition=uk
+http://feeds.marketwatch.com/marketwatch/topstories/
+http://feeds.marketwatch.com/marketwatch/marketpulse/
+http://feeds.marketwatch.com/marketwatch/pf/
+http://feeds.marketwatch.com/marketwatch/StockstoWatch/
+http://feeds.marketwatch.com/marketwatch/internet/
+http://feeds.marketwatch.com/marketwatch/mutualfunds/
+http://feeds.marketwatch.com/marketwatch/financial/
+https://schneier.com/blog/atom.xml
+http://xkcd.com/atom.xml
+http://feeds.arstechnica.com/arstechnica/index/
+http://feeds.gawker.com/lifehacker/full
+https://www.reddit.com/r/technology/.rss
 """
 
 categories, txt_categories, dict_categories = [], [], {}
 
+# def addCategory(name, criteria):
+#     global categories, txt_categories, dict_categories
+#     categories.append(criteria); txt_categories.append(name)
+#     dict_categories[name] = criteria
+
+#OVERRIDES addCategory to update criteria without adding new targetable sections
 def addCategory(name, criteria):
     global categories, txt_categories, dict_categories
-    categories.append(criteria); txt_categories.append(name)
+    if name in txt_categories:
+        for ndx in range(len(txt_categories)):
+            if name == txt_categories[ndx]:
+                categories[ndx] = criteria
+    else:
+        categories.append(criteria);
+        txt_categories.append(name)
     dict_categories[name] = criteria
 
 tech = """
@@ -65,6 +89,7 @@ tech = """
 5: start-up
 10: seattle
 10: california
+
 """
 addCategory('Technology', tech)
 
@@ -77,7 +102,7 @@ business = """
 10: wealth
 25: savings
 40: gold
-35: real esate
+35: real estate
 30: finance
 40: saving
 20: business
@@ -89,7 +114,9 @@ usa_politics = """
 60: gerrymandering
 55: midterms
 25: election
-30: united states, united states politics, republican, democrat
+30: united states politics
+30: republican
+30: democrat
 20: Federal Government
 15: Legislature
 15: Executive
@@ -110,7 +137,11 @@ usa_politics = """
 addCategory('USA politics', usa_politics)
 
 asia = """
-50: china, china trade, china economy, asian economy, south china sea
+40: china
+50: china trade
+40: china economy
+45: asian economy
+35: south china sea
 20: Malaysia
 20: Singapore
 30: South Korea
@@ -131,8 +162,8 @@ addCategory('Asia', asia)
 
 europe = """
 35: europe
-20: EU,eu
-20: Brexit,brexit
+20: eu
+20: brexit
 25: germany
 30: spain
 25: migrants
@@ -140,48 +171,76 @@ europe = """
 addCategory('Europe', europe)
 
 college = """
-30: university,college,tuition
+10: college, school
+30: university|college,rankings
+30: college,tuition
+35: best degrees
+20: best paying degrees
 """
 addCategory('University', college)
 
 health = """
-30: healthy life, healthy life style, dieting, exercising
+30: healthy life
+35: healthy life style
+20: dieting
+35: fitness
+25: bodybuilding
+15: athlete
 """
 addCategory('Health', health)
 
 law = """
-25: congress,bills,new law,judge, federal judges, judge appointments
+10: congress
+25: bills, -dolla dolla
+20: new law
+15: judge
+25: federal judge(|s)
+20: judge appointment(|s)
 """
 addCategory('Law', law)
 
 food = """
-30: food, meal recipes, budget recipes, recipes
+30: food
+30: meal recipes
+25: budget recipes
+20: recipes
 """
 addCategory('Food', food)
 
 travel = """
-40: travel, cheap flights, travel adventures,budget traveling, recreation, summer activities, winter activities, fall activities, spring activities
-45: travel ideas, how to travel, travel guides
+35: travel(|ing)
+50: cheap flight(|s)
+45: travel adventure(|s)
+40: budget traveling(|ing)
+25: summer activities(y|ies)
+25: winter activities(y|ies)
+25: fall activities(y|ies)
+25:spring activities(y|ies)
+45: travel idea(|s)
+45: how to travel
+45: travel guide(|s)
 """
 addCategory('Travel', travel)
 
 music = """
-20: top songs
-15: best albums
-20: concerts, music concerts
+20: (best|top|great) song(|s)
+15: (best|great) album(|s)
+20: concert(|s), music concert(|s)
 """
 addCategory('Music', music)
 
 entertainment = """
-20: movies, new movies,best shows, best movies
+20: movie
+30: new movie
+35: (best|good|great) (show|movie)
+10: new tv shows
 """
 addCategory('Entertainment', entertainment)
 
 crypto = """
-20: crypto
-10: bitcoin
-15: altcoins
-15: alt coins"""
+20: cryptocurrenc(y|ies)
+10: bitcoin(|s)
+15: alt( |-)coins"""
 addCategory('Crypto', crypto)
 
 space_stuff = """
@@ -193,7 +252,11 @@ space_stuff = """
 500: wormholes
 500: space travel
 250: space colonization
-90: space, space travel, faster then light travel, mars colonization, aliens, wormholes #wut?
+75: space, space travel
+55: faster then light travel
+65: mars colonization
+15: aliens
+30: wormholes
 20: planets
 """
 addCategory('Space', space_stuff)
@@ -201,7 +264,8 @@ addCategory('Space', space_stuff)
 climate = """
 15: climate change
 15: carbon
-40: air pollution, toxic
+40: air pollution
+15: toxic
 """
 addCategory('Climate', climate)
 
@@ -217,5 +281,8 @@ world_affairs = """
 35: sanctions
 """
 addCategory('World Affairs', world_affairs)
+
+xkcd = "1000: xkcd"
+addCategory('xkcd', xkcd)
 
 entries, named_categories = [], list(dict_categories.keys())

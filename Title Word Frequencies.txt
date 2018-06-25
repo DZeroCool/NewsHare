@@ -1,3464 +1,3957 @@
 Title Word Frequencies:
-  186: to
-  162: the
-  158: of
-  152: in
-  108: and
-  104: for
-   95: a
-   82: on
-   60: The
-   43: at
-   40: –
-   39: Trump
-   36: World
-   33: NASA
-   32: with
-   31: New
-   30: is
-   30: Cup
+  272: to
+  191: the
+  171: of
+  157: in
+  116: for
+  114: a
+  107: and
+   90: on
+   78: The
+   39: is
+   38: World
+   37: with
+   37: at
+   34: –
+   34: U.S.
+   34: Trump
+   32: as
+   32: NASA
+   32: Cup
    30: 2018:
-   29: from
-   27: How
-   23: after
-   22: U.S.
-   21: A
+   27: new
+   26: How
+   25: by
+   25: New
+   24: from
+   23: over
+   22: after
+   21: be
+   20: A
+   19: stocks
    18: are
-   17: as
-   16: by
-   16: What
-   16: Is
-   15: Why
-   14: video
+   15: will
+   15: that
+   15: says
+   15: out
+   15: -
    14: space
-   14: South
-   13: US
-   13: More
-   12: Trump’s
+   14: What
+   14: US
+   13: you
+   13: against
+   13: Stocks
+   13: Is
+   12: |
+   12: tech
+   12: could
+   12: but
+   12: Supreme
+   12: Space
+   12: South
+   12: North
    12: Mars
-   12: Launch
    12: Daily
-   11: over
+   11: watch
+   11: video
+   11: trade
+   11: make
    11: it
-   11: immigration
-   11: be
    11: Will
-   11: Space
+   11: Why
+   11: Watch:
    11: Report
+   11: Launch
    11: ISS
-   11: I
+   11: First
    11: England
-   10: |
-   10: women
-   10: new
-   10: make
-   10: This
+   10: win
+   10: not
+   10: more
+   10: life
+   10: its
+   10: an
+   10: Your
    10: Summary
-   10: Its
-    9: who
+   10: Court
+    9: your
     9: was
-    9: that
     9: pictures
-    9: family
-    9: could
-    9: an
+    9: his
+    9: day
     9: Saudi
-    9: North
+    9: News
+    9: More
+    9: Media
+    9: Its
+    9: From
+    9: Erdogan
+    9: ETF
+    9: China
     9: Are
-    8: years
-    8: will
-    8: says
+    8: who
+    8: stock
+    8: investment
     8: into
-    8: his
-    8: found
-    8: do
-    8: Your
+    8: has
+    8: can
+    8: Turkey
+    8: This
+    8: That
     8: Station
-    8: Media
-    8: From
-    8: Border
-    8: -
-    7: —
-    7: you
-    7: migrant
-    7: life
-    7: car
-    7: Week
-    7: That
-    7: Satellites
+    8: Iran
+    8: Chinese
+    8: Big
+    8: Apple
+    8: Aircraft
+    8: About
+    8: 'I
+    7: up
+    7: off
+    7: now
+    7: no
+    7: million
+    7: goal
+    7: first
+    7: family
+    7: court
+    7: One
     7: Mission
-    7: London
-    7: Korea
     7: In
-    7: First
+    7: Has
     7: ESA
-    7: Aircraft
-    7: Africa
-    7: About
-    7: 'I
-    6: why
-    6: not
+    7: California
+    7: Brexit
+    7: Border
+    7: AI
+    7: 2
+    6: years
+    6: way
+    6: victory
+    6: sales
+    6: really
+    6: immigration
     6: how
-    6: first
-    6: dies
-    6: child
-    6: change
-    6: but
+    6: election
+    6: do
+    6: children
+    6: chief
     6: back
-    6: amid
-    6: Up
+    6: Video
+    6: Use
+    6: UK
+    6: Two
     6: Trump's
     6: Tech
+    6: Silicon
+    6: Security
     6: Russia
-    6: Mexico
-    6: Melania
-    6: Life
-    6: June
-    6: House
-    6: Has
+    6: Internet
     6: Future
-    6: Electric
-    6: Drone
-    6: Could
-    6: China
-    6: Big
-    5: win
+    6: Erdoğan
+    6: Elon
+    6: Dow
+    6: AT&T
+    6: .
+    5: —
+    5: year
+    5: women
+    5: what
+    5: wants
+    5: using
     5: this
+    5: their
     5: than
+    5: tax
+    5: still
+    5: some
+    5: shows
+    5: should
+    5: rights
     5: put
-    5: policy
-    5: people
-    5: out
-    5: or
-    5: one
-    5: off
+    5: power
+    5: other
+    5: need
     5: my
-    5: million
-    5: hurt
-    5: families
+    5: most
+    5: money
+    5: help
+    5: he
+    5: football
     5: data
-    5: can
-    5: border
-    5: ban
-    5: Video
-    5: UK
-    5: Supreme
+    5: bans
+    5: about
+    5: You
+    5: With
+    5: Who
+    5: What’s
+    5: Wall
+    5: Up
+    5: Study
     5: Stephen
+    5: Stars
     5: Spacecraft
+    5: Satellites
     5: Satellite
+    5: Sarah
+    5: Robot
     5: Rise
-    5: Next
-    5: News
+    5: Red
+    5: Quantum
+    5: Privacy
     5: May
-    5: Korean
-    5: Have
+    5: Market
     5: For
-    5: Do
-    5: Data
-    5: Court
-    5: Can
-    5: California
-    5: Best
-    5: Belgium
-    5: At
-    4: were
-    4: week
-    4: way
-    4: want
-    4: using
-    4: up
-    4: their
+    5: Electric
+    5: ETFs
+    5: Drone
+    5: Build
+    5: 5G
+    5: 3
+    5: &
+    4: woman
+    4: why
+    4: while
+    4: when
+    4: weeks
+    4: war
+    4: voters
+    4: vote
+    4: think
+    4: they
     4: takes
     4: take
-    4: some
-    4: service
-    4: separations
-    4: separation
-    4: really
-    4: rally
-    4: now
+    4: since
+    4: say
+    4: risk
+    4: record
+    4: production
+    4: press
+    4: presidential
+    4: percent
+    4: or
+    4: officials
     4: next
-    4: most
+    4: mobile
     4: military
-    4: makes
+    4: mean
+    4: may
+    4: man
+    4: lower
+    4: launches
+    4: just
     4: hunter
-    4: help
-    4: football
-    4: election
+    4: him
+    4: good
+    4: global
+    4: giving
+    4: funds
+    4: fund
+    4: found
+    4: former
+    4: families
+    4: face
+    4: ends
     4: driving
-    4: crisis
-    4: children
-    4: beat
+    4: down
+    4: dies
+    4: cut
+    4: company
+    4: change
+    4: car
+    4: calls
+    4: black
+    4: billion
+    4: because
+    4: ban
     4: astronaut
-    4: about
-    4: With
-    4: When
-    4: Vatican
-    4: Two
-    4: That’s
-    4: Test
-    4: TV
-    4: Supersonic
-    4: Silicon
-    4: Show
+    4: all
+    4: West
+    4: Week
+    4: Valley
+    4: Using
+    4: USTC
+    4: Trump’s
+    4: Trade
+    4: Tesla
+    4: Television
+    4: Support
     4: Should
-    4: Security
-    4: Says
-    4: Robot
-    4: Research
-    4: Privacy
-    4: President
-    4: Policy
-    4: Paul
-    4: Panama
-    4: One
-    4: Making
-    4: Lost
+    4: SEC
+    4: Russian
+    4: Report:
+    4: Portugal
+    4: Next
+    4: Meet
+    4: Life
     4: Laser
+    4: Korea
     4: Kepler
-    4: Island
+    4: It
     4: Invites
-    4: Internet
-    4: Immigration
+    4: Investing:
+    4: International
+    4: I
+    4: Huckabee
     4: Host
     4: Home
+    4: Hidden
+    4: Hen
+    4: Government
+    4: Google
     4: Gerst
-    4: Family
-    4: Facebook
+    4: Free
+    4: Egypt
+    4: East
+    4: Earth
+    4: EU
     4: Drones
+    4: Do
+    4: Data
     4: Crisis
+    4: Could
     4: Company
-    4: China's
-    4: Children
+    4: Companies
+    4: Cities
+    4: Carolina
     4: Call
-    4: Build
-    4: Brexit
-    4: Beyond
-    4: Australia
+    4: British
+    4: Best
+    4: Back
+    4: American
     4: Alexander
-    4: Air
-    4: AI
-    4: 5G
-    4: 5
-    3: é
-    3: your
-    3: worth
-    3: wedding
-    3: war
-    3: voters
-    3: v
-    3: under
-    3: trade
-    3: tells
-    3: tech
-    3: team
-    3: tax
+    4: Africa
+    4: 2018
+    3: would
+    3: worst
+    3: worries
+    3: workers
+    3: without
+    3: wins
+    3: where
+    3: were
+    3: we
+    3: want
+    3: view
+    3: two
+    3: tumbles
+    3: tourists
+    3: time
+    3: through
+    3: three
+    3: third
+    3: technology
     3: tariffs
-    3: summer
-    3: storm
-    3: staff
-    3: source
-    3: show
-    3: seriously
-    3: series
+    3: support
+    3: supply
+    3: stop
+    3: sets
+    3: service
+    3: separations
+    3: separated
+    3: seeks
     3: see
-    3: return
-    3: research
-    3: record
-    3: president
-    3: place
-    3: percent
-    3: orders
-    3: need
-    3: money
-    3: me
-    3: march
-    3: many
-    3: man
-    3: main
-    3: machine
-    3: lost
-    3: late
-    3: last
-    3: its
+    3: science
+    3: save
+    3: reveals
+    3: rejects
+    3: rated
+    3: public
+    3: process
+    3: prices
+    3: powers
+    3: politics
+    3: players
+    3: plan
+    3: pitch
+    3: picture
+    3: people
+    3: one
+    3: mission
+    3: migrants
+    3: medicine
+    3: measures
+    3: manager
+    3: low
+    3: look
+    3: like
+    3: light
+    3: leaders
+    3: law
+    3: launch
+    3: keyboard
+    3: key
+    3: important
+    3: identified
+    3: hottest
+    3: hits
     3: high
+    3: held
     3: health
-    3: have
-    3: grenade
-    3: government
-    3: good
-    3: goal
-    3: global
-    3: five
-    3: find
-    3: final
-    3: fatal
+    3: goes
+    3: get
+    3: game
+    3: future
+    3: form
+    3: fear
     3: fans
-    3: face
-    3: down
+    3: explained
+    3: elections
+    3: eight-year-old
+    3: economy
+    3: due
+    3: drug
+    3: draw
     3: does
-    3: detained
-    3: decision
-    3: debate
-    3: day
-    3: crash
-    3: crackdown
-    3: celebrations
-    3: care'
-    3: candidate
-    3: campaign
-    3: calls
-    3: call
-    3: before
-    3: attack
-    3: art
-    3: all
+    3: country
+    3: concedes
+    3: charges
+    3: celebrating
+    3: came
+    3: business
+    3: buildings
+    3: brings
+    3: best
+    3: been
+    3: asked
+    3: also
     3: air
-    3: against
-    3: Zimbabwe
-    3: Zealand
-    3: York
-    3: Work
-    3: Who
+    3: aim
     3: White
+    3: When
+    3: Wells
     3: We
+    3: Ways
     3: Water
-    3: Was
-    3: Wall
+    3: Uruguay
     3: Uber
-    3: Turkey's
-    3: Tunisia
+    3: UK's
+    3: Turkish
     3: Trump,
+    3: Top
     3: To
-    3: Time
-    3: Through
-    3: Thousands
-    3: Things
     3: These
-    3: Their
     3: Texas
     3: Tests
-    3: Tesla
-    3: Television
+    3: Technologies
     3: Talks
     3: Take
-    3: Syria
-    3: Sweden
     3: Swarm
-    3: Support
-    3: Summer
-    3: Study
-    3: Store
-    3: Steve
-    3: Startup
-    3: Stars
-    3: Solar
-    3: Small
-    3: Self-Driving
-    3: Seeking
-    3: Sea
-    3: Rover
-    3: Rogue
+    3: Supersonic
+    3: Students
+    3: Street
+    3: Squid
+    3: Square
+    3: Spy
+    3: Spain
+    3: Show
+    3: Search
+    3: Science
+    3: Research
     3: Remote
+    3: Real
+    3: Promises
+    3: Problem
+    3: Prince
+    3: Power
     3: Poll:
-    3: Paris
-    3: Pain
+    3: Policy
+    3: Panama
+    3: Out
+    3: Oracle,
+    3: Ocean
+    3: Not
     3: Networks
+    3: Netflix
+    3: National
+    3: NSA
+    3: NHS
     3: NASA,
-    3: Most
     3: Moon
     3: Money
-    3: Migrant
-    3: Michael
-    3: Meet
-    3: Man
-    3: Like
-    3: Know
-    3: Kim
+    3: Migrants
+    3: Middle
+    3: Mexico
+    3: Massachusetts
+    3: MacBook
+    3: Learning
+    3: Korean
     3: Kepler’s
-    3: Just
-    3: Jones
-    3: Japan
-    3: It's
-    3: It
+    3: June
+    3: July
+    3: John
     3: Insider
+    3: Ice
     3: Hybrid
     3: Horizons
-    3: Hold
     3: His
-    3: Heat
-    3: Grand
-    3: Government
-    3: Go
+    3: Here's
+    3: He
+    3: Have
+    3: Harley-Davidson
     3: Global
+    3: Get
     3: Germany
-    3: Game
-    3: GPS
-    3: GOP
     3: Fuel
     3: Friday:
-    3: French
-    3: Fox
-    3: Fifa
+    3: Friday
+    3: Fargo
+    3: Family
+    3: FBI
     3: Explore
+    3: European
+    3: Europe
     3: Energy
-    3: Elon
+    3: End
     3: Earth-Observing
-    3: EU
-    3: Donald
-    3: Democrats
+    3: Drive
+    3: Dive:
+    3: Discussion
     3: Delivery
+    3: Deep
+    3: David
     3: Contract
-    3: Companies
+    3: Computing
     3: Coming
-    3: Cohen
-    3: Coast
-    3: Chinese
-    3: Cars
-    3: CEO
+    3: Chip
+    3: Can
     3: But
     3: Building
     3: Bring
-    3: Bill
-    3: Back
+    3: Be
+    3: Ban
     3: Awards
+    3: At
     3: Astronauts
-    3: Apple
-    3: An
-    3: America
-    3: Amazon
+    3: Arabia
+    3: April
     3: All
-    3: 2018
-    3: 100
-    2: young
-    2: wrestling
-    2: worried
-    2: workers
-    2: work
+    3: Air
+    3: Africa's
+    3: 4
+    3: 10
+    2: “The
+    2: ‘one-man
+    2: İnce
+    2: £1.3bn
+    2: youngest
+    2: world’s
+    2: working
     2: words
     2: won't
-    2: woman
-    2: winner
-    2: wines
-    2: window
-    2: while
-    2: when
-    2: what
-    2: went
-    2: weeks
-    2: week:
+    2: wish
+    2: weakness
+    2: ways
+    2: water
+    2: watching
     2: waste
     2: warns
-    2: wants
-    2: vote
+    2: waiver
+    2: visited
     2: visit
-    2: view
-    2: two
+    2: visa
+    2: very
+    2: value
+    2: upgrade
+    2: undocumented
+    2: under
     2: turn
+    2: trying
+    2: trips
+    2: trip
+    2: tribute
+    2: travel
     2: train
-    2: trail
     2: tour
-    2: today
-    2: time
+    2: top
+    2: too
+    2: tidal
+    2: threats
     2: threatens
-    2: they
-    2: them
-    2: testing
+    2: these
+    2: therapy
     2: test:
     2: test
-    2: teachers
-    2: surprising
-    2: support
-    2: strike
-    2: strategy
-    2: strangling
+    2: teen
+    2: team
+    2: targets
+    2: target
+    2: tackle
+    2: sues
+    2: stream
+    2: streak
+    2: strains
     2: story
-    2: stop
+    2: storm
     2: states
+    2: starts
     2: stars
-    2: stadium
-    2: spat
-    2: southern
-    2: so
-    2: snake
-    2: silence
-    2: side
-    2: shows
-    2: sharing
-    2: sex
-    2: separating
-    2: seek
+    2: spots
+    2: spooky
+    2: speech
+    2: soon
+    2: son
+    2: social
+    2: single
+    2: sign
+    2: shut
+    2: show
+    2: serve
+    2: selling
+    2: sell
+    2: segment
+    2: secrets
+    2: secret
     2: scores
-    2: scooters
-    2: science
-    2: say
-    2: sales
-    2: safety
-    2: sacred
+    2: scientists
+    2: said
+    2: running
+    2: ruling
+    2: rules
+    2: rule
     2: rover
+    2: rom-com
     2: rocket
-    2: road
-    2: river
-    2: rival
-    2: risk
-    2: ring
-    2: rights
-    2: right
     2: ride
-    2: reunions
+    2: reveal
+    2: reunite
     2: returns
     2: restaurant
-    2: resigns
-    2: report
-    2: referendum
-    2: recipes
-    2: readers
-    2: raise
+    2: reports
+    2: regime’
+    2: refused
+    2: reach
+    2: rally
+    2: raises
+    2: raised
+    2: racist
+    2: race
     2: question
-    2: que
-    2: puts
-    2: public
+    2: quantum
     2: project
+    2: progress
+    2: problem
+    2: prize
+    2: pride
     2: powerful
-    2: power
-    2: position
-    2: pornography
-    2: politics
-    2: policies
+    2: political
     2: police
-    2: players
     2: plastic
+    2: plants
     2: plans
-    2: pictures:
+    2: pill
     2: physics
+    2: penalty
+    2: party
+    2: partner
+    2: para
     2: own
-    2: outside
-    2: our
-    2: other
-    2: oil
+    2: out?
+    2: orders
+    2: opposition
+    2: opponent
+    2: open
+    2: online
+    2: oldest
     2: officially
-    2: nuclear
-    2: no
+    2: o
+    2: nurse
     2: network
+    2: net
     2: needed
-    2: na
-    2: moment
+    2: nearly
+    2: music
+    2: moving
+    2: move
     2: module
-    2: modern
     2: missions
-    2: mission
     2: miss
-    2: migrants
-    2: may
-    2: massive
-    2: marry
+    2: minister
+    2: migrant
+    2: might
+    2: members
+    2: media
+    2: me
+    2: match
+    2: market's
+    2: market
+    2: maps
     2: made
-    2: low
-    2: look
-    2: local
-    2: line
-    2: like
-    2: light
-    2: lies
-    2: least
-    2: leader
-    2: lawmaker
-    2: launch
-    2: latest
+    2: lot
+    2: loss
+    2: lose
+    2: lives
+    2: leave
+    2: largest
+    2: language
     2: land
-    2: key
+    2: lagoon
+    2: keeps
     2: judge
-    2: jogger
-    2: jacket
+    2: job
+    2: issues
+    2: investors
     2: intelligence
-    2: insights
-    2: injured
-    2: illegal
-    2: ice
-    2: human
-    2: hopes
+    2: inquiry:
+    2: inquiry
+    2: injunction
+    2: industry
+    2: imports
+    2: immigrant
+    2: images
+    2: if
+    2: iOS
+    2: hurt
+    2: house
+    2: hot
+    2: hope
     2: home
-    2: hold
-    2: hit
-    2: history'
-    2: history
-    2: he's
-    2: he
-    2: has
-    2: hand
-    2: goes
-    2: giving
-    2: giants
-    2: get
-    2: future
-    2: funds
+    2: have
+    2: harm
+    2: happened
+    2: halt
+    2: had
+    2: growth
+    2: give
+    2: getting
+    2: gerrymandering
+    2: fun
+    2: full
     2: free
+    2: five
+    2: firm
+    2: find
     2: finally
-    2: far
-    2: eyes
+    2: final
+    2: fields
+    2: female
+    2: feel
+    2: fears
+    2: farm
     2: extinction
-    2: explosion
     2: explainer
-    2: explained
-    2: expected
-    2: ever
-    2: escapes
-    2: envoy
-    2: ends
-    2: employee
-    2: economy
-    2: drummer
-    2: driver
-    2: drama
-    2: don't
-    2: documents
-    2: dippy
+    2: executive
+    2: entry
+    2: end
+    2: employees
+    2: election:
+    2: economic
+    2: easier
+    2: during
+    2: dogs
+    2: doesn’t
+    2: discovery
     2: different
+    2: device
+    2: development
     2: detention
-    2: demand
+    2: defeat
+    2: debit
     2: deal
-    2: dead,
     2: dead
-    2: de
     2: daughter
-    2: cream
-    2: court
-    2: country
-    2: congressional
+    2: crime
+    2: create
+    2: cracks
+    2: congresswoman
     2: companies
     2: comes
-    2: close
-    2: children:
-    2: chief
-    2: charges
-    2: charged
-    2: central
-    2: cellphone
-    2: cat
-    2: cartoon
-    2: campus
-    2: business
-    2: build
-    2: brings
-    2: bringing
-    2: boss
-    2: billion
-    2: bill
+    2: come
+    2: clash
+    2: chip
+    2: cheap
+    2: certainly
+    2: celebrations
+    2: case
+    2: card
+    2: cannabis
+    2: candidate
+    2: campaign:
+    2: call
+    2: buy
+    2: boost
+    2: bond
+    2: biggest
     2: big
-    2: better
-    2: best
-    2: bank
-    2: backups,
-    2: away
-    2: auto
-    2: arrival
-    2: arrested
-    2: arms
-    2: answers
-    2: annual
-    2: aim
+    2: benchmark
+    2: below
+    2: being
+    2: behind
+    2: begins
+    2: before
+    2: becomes
+    2: become
+    2: beats
+    2: beat
+    2: battle
+    2: baby
+    2: avoid
+    2: attacks
+    2: attack
+    2: astronomer
+    2: approval
+    2: apply
+    2: app
+    2: animals
+    2: analyst
+    2: amid
+    2: almost
+    2: ally
     2: agreement
-    2: age
-    2: acquires
-    2: accused
-    2: Zimbabwe's
+    2: across
     2: YouTube
-    2: You
-    2: Windrush
-    2: Westminster
-    2: West
-    2: Welcomes
+    2: Yorker
+    2: Xbox
+    2: Would
+    2: World’s
+    2: Work
+    2: Woman
+    2: Wing
+    2: William
+    2: Web
     2: Weapons
     2: Way
-    2: War
-    2: Virginia
-    2: Vinnie
-    2: Views
+    2: Wawrinka
+    2: Waters
+    2: Watch
+    2: Was
+    2: Volkswagen
     2: View
-    2: Valley
-    2: Users
-    2: Unnerving
-    2: United
+    2: Venmo
+    2: Twitter
     2: Twin
+    2: Turkey’s
+    2: Troubled
+    2: Treasury
+    2: Tower
     2: Toward
-    2: Toronto
-    2: Top
     2: Took
-    2: Toni
-    2: Times
-    2: Tim
-    2: Thrones'
-    2: Threatens
-    2: Than
+    2: Time
+    2: Through
+    2: Thomas
+    2: Things
+    2: Their
     2: Testing
-    2: Teleconference
-    2: Technologies
+    2: Test
+    2: Tensions
+    2: Telegram
+    2: Tehran
     2: Takes
     2: System
-    2: Students
-    2: Street
+    2: Syrian
+    2: Swansea
+    2: Stuff
     2: Storm
     2: Still
     2: Stealthy
-    2: States
-    2: Statement
-    2: Southgate
+    2: Startup
+    2: Stan
     2: Sounds
-    2: Sophie
-    2: Some
-    2: Solstice
+    2: Solar
+    2: Social
+    2: Soccer
     2: Snooping
+    2: Smart
+    2: Signals
     2: Shifts
-    2: Serbia
-    2: Separation
-    2: Sell
-    2: Search
-    2: Scotland
-    2: Scientists
-    2: Science
-    2: Sarah
-    2: Sanders
+    2: Shift
+    2: Seven
+    2: See
+    2: Secure
+    2: Season
+    2: Sea
+    2: Says
+    2: Sam
     2: Safe
     2: SXSW
-    2: Russian
+    2: Russia’s
     2: Rules
+    2: Rover
+    2: Ronaldo
+    2: Rogue
     2: Robot,
     2: Risk
+    2: Reveal
     2: Researchers
-    2: Republicans:
     2: Republicans
     2: Reasons
-    2: Real
+    2: Really
+    2: Ready
     2: Radio
-    2: Quieter
-    2: Quantum
+    2: Quit
+    2: Quaresma
     2: Public
-    2: Promises
-    2: Power
-    2: Pompeo
+    2: Project
+    2: Pro
+    2: Prize
+    2: President
+    2: Poverty
+    2: Politics
     2: Political
-    2: Police
-    2: Planetary
     2: Planet
     2: Plane
-    2: Plan
-    2: Physician
-    2: Philippe
-    2: Park
-    2: Pantera
-    2: Pacific
-    2: PM
-    2: Out
+    2: Perverse
+    2: Personal
+    2: People
+    2: Pain
+    2: Over
+    2: Outside
+    2: Other
+    2: Orwell
     2: Orion
     2: Online
-    2: Office
-    2: Ocean
-    2: Observer
-    2: OPEC
-    2: Nuclear
-    2: Not
-    2: Night
-    2: Nigerian
-    2: Nick
-    2: Neymar
-    2: Never
-    2: Netflix
-    2: Needs
-    2: Navy
-    2: NSF
-    2: NASA’s
-    2: NASA's
+    2: Oliver
+    2: Novel
+    2: Nokia
+    2: Noise
+    2: No
+    2: Neutrality
+    2: Net
+    2: NFL
+    2: NATO
+    2: Myth
     2: Mystery
-    2: My
-    2: Modeling
+    2: Musk's
+    2: Musk
+    2: Murray
+    2: Mueller
+    2: Morocco
+    2: Mohamed
     2: Mobile
-    2: Mnangagwa
-    2: Miss
-    2: Million
-    2: Millennials
-    2: Mike
-    2: Might
-    2: Mexican
-    2: Massachusetts
+    2: Merkel
+    2: Men
+    2: Medical
+    2: Maxine
     2: Martin
-    2: Martian
     2: Mark
-    2: Marine
+    2: Making
     2: Makes
     2: Make
     2: Major
     2: Made
-    2: MacBook
-    2: Love
+    2: Machine
+    2: MPs
+    2: Lost
     2: Loss
     2: Looking
-    2: Longtime
     2: Location
     2: Live
+    2: Little
+    2: Like
     2: Lightning
-    2: Lewis
-    2: Leslie
     2: Legal
-    2: Learning
+    2: Latest:
     2: Latest
+    2: Last
     2: Largest
     2: Large
-    2: Kurdish
-    2: Kroos
-    2: Korea:
+    2: LGBT
+    2: Kroger
+    2: Korea’s
     2: Korea's
-    2: King
-    2: Katie
+    2: Know
+    2: Kim
+    2: Just
     2: Joy,
+    2: Job
     2: Jet
-    2: Jacket
+    2: Japan
+    2: It's
     2: Isn’t
-    2: Ireland
-    2: Iraq
-    2: Iran
+    2: Island
+    2: Iran's
     2: Invited
+    2: Investors
     2: Into
-    2: International
     2: Intel's
-    2: Intel
-    2: Inside
-    2: Innovation
+    2: India's
     2: InSight
+    2: Immigration
     2: If
-    2: Ideas,
     2: Idea
-    2: Ice
     2: ICE
+    2: I'm
     2: Human
-    2: Hidden
-    2: He
+    2: Hubs
+    2: House
+    2: Hold
+    2: Heathrow
+    2: Heat
+    2: Health
     2: Hawking
-    2: Hamilton
+    2: Group
+    2: Grenfell
     2: Great
+    2: Gray
     2: Gravity
     2: Got
-    2: Gorilla
-    2: Good
-    2: Get
-    2: Food
+    2: Google,
+    2: Goldblatt,
+    2: Give
+    2: Girls
+    2: Giant
+    2: German
+    2: General
+    2: GPS
+    2: GE
+    2: Fox
+    2: Former
     2: Flights
-    2: Fix
     2: Finds
-    2: Find
     2: Families
+    2: Facebook
     2: FCC
-    2: FBI
-    2: European
-    2: Europe
-    2: Ethiopian
-    2: England’s
-    2: England's
-    2: End
-    2: Eddie
-    2: Ecclestone
-    2: East
+    2: Extra:
+    2: Ethically
+    2: Employees
+    2: Eight
+    2: Ecuadorean
+    2: Eastbourne
     2: Earth’s
-    2: Earth
     2: Duo
     2: Drama
-    2: Don’t
-    2: Discussion
+    2: Dota
+    2: Domain
+    2: Dollar
+    2: Discuss
     2: Digital
+    2: Did
     2: Devices
     2: Device-to-Device
-    2: Design
+    2: Democrats
+    2: Democratic
     2: Decision
-    2: D.C.
-    2: Crude
+    2: Dawn
+    2: DNA
     2: Critical
     2: Credit
     2: Coverage
-    2: Conference
-    2: Computing
+    2: Country
+    2: Control
     2: Computer
     2: Communication
-    2: Cold
+    2: Colombia
+    2: Coast
     2: Clark
-    2: City
+    2: China,
+    2: China's
     2: Chase
     2: Charles
     2: Cartoon:
-    2: Carbon
-    2: Business
-    2: British
-    2: Bionic
+    2: Camera
+    2: CO2
+    2: CEO
+    2: CBS
+    2: Buzz
+    2: Burning
+    2: Brasil
+    2: Box:
+    2: Bond
+    2: Bodies
+    2: Blogging:
+    2: Bill
     2: Bigger
-    2: Bid
+    2: Beyond
     2: Between
     2: Bet
+    2: Ben
+    2: Being
     2: Becomes
-    2: Become
-    2: Bear
-    2: Be
-    2: Battlefield
-    2: Bag
-    2: BBC
+    2: Battle
+    2: BMW
+    2: B
     2: Autonomous
-    2: Australia's
-    2: Attempt
-    2: Asylum.
-    2: Argentina
+    2: Australian
+    2: Australia
     2: Applications
     2: Antarctica
     2: Another
-    2: Andrés
-    2: Andrew
-    2: Americans
-    2: American
+    2: Andy
+    2: America
+    2: Amazon
+    2: Aldrin
     2: Airspace
     2: Aims
-    2: Abbey
-    2: 6
-    2: 54
-    2: 4
+    2: Against
+    2: After
+    2: Activists
+    2: 9
+    2: 8
+    2: 500
+    2: 5
+    2: 3D
+    2: 3-0
     2: 2017
-    2: 20
-    2: 2-1
-    2: 12
-    2: 10
+    2: 1000
+    2: 100
+    2: 1,300
+    2: /
+    2: 'Westworld'
     2: 'This
     2: 'The
+    2: 'Be
+    2: $4
     1: “the
+    1: “grandkids
     1: “Zero
-    1: “Yearning
-    1: “We
-    1: “Three
-    1: “Tactical
+    1: “Women
+    1: “Westworld”
+    1: “Style
+    1: “Snapdragon
+    1: “Set
     1: “Sees”
-    1: “Saturday
     1: “Open
-    1: “Leave
+    1: “He
+    1: “Gospel
     1: “Galactic
-    1: “Decorum”
-    1: “Convenience
-    1: ‘will
-    1: ‘town
-    1: ‘serious
-    1: ‘permanently
-    1: ‘hides
+    1: “Fuck
+    1: “Foda-se
+    1: “Fairview,”
+    1: “American
+    1: ’s
+    1: ‘perfect’
+    1: ‘lives
     1: ‘head
+    1: ‘goes
+    1: ‘feeding
     1: ‘doesn’t
-    1: ‘What
+    1: ‘classic
+    1: ‘balls’
+    1: ‘anti-U.S.-imperialism’
     1: ‘Twilight
-    1: ‘The
     1: ‘SuperTowers’
-    1: ‘Senegal
-    1: ‘Opera
-    1: ‘News’
-    1: ‘It
-    1: ‘I
-    1: ‘Get
+    1: ‘Set
+    1: ‘Price
+    1: ‘Patients
+    1: ‘Making
+    1: ‘Hold
+    1: ‘Filthy
     1: ‘Exoplanet?’
-    1: ‘Every
-    1: ‘EU
-    1: ‘As
-    1: ‘Aloof
+    1: ‘Everything
+    1: ‘Death
+    1: ‘Cotton-picking
     1: Élite
-    1: £2.9
-    1: zone
-    1: youngest
-    1: years,
-    1: xenophobia
+    1: £100bn
+    1: zany
+    1: you're
+    1: yields
+    1: yield
+    1: yen
     1: wrong
+    1: wounds,
     1: wouldn't
-    1: would
-    1: worsening
-    1: works.
+    1: worry
+    1: worm
+    1: world's
+    1: world
+    1: works
     1: workers:
-    1: work'
-    1: women’s
-    1: women's
-    1: without
-    1: within
-    1: winter
+    1: work
+    1: won’t
+    1: won
+    1: women—including
+    1: women?
+    1: woman’s
+    1: woes
     1: wings
-    1: win'
-    1: wildlife
-    1: wild'
-    1: wife
+    1: windows’:
+    1: window
     1: wider
+    1: wide
     1: why.
-    1: who’s
-    1: whitewash
-    1: white
+    1: whitewashed
+    1: whistleblower:
     1: whiskey
     1: which
-    1: where
+    1: where's
+    1: wheelchairs
+    1: wheel
+    1: wetlands,
+    1: west
+    1: went
+    1: welcomes
     1: weightlessness
-    1: week,
-    1: wears
-    1: wearing
+    1: weigh
+    1: week:
+    1: week.
+    1: week
+    1: weed
+    1: wedding:
+    1: wedding
+    1: web
+    1: weatherman
     1: weapons
-    1: we
+    1: weakening
+    1: way,
+    1: waterways
     1: watershed
-    1: watching
-    1: watchdog
-    1: wasn’t
-    1: warrant
-    1: warehouse
-    1: war'
-    1: wall,
-    1: walks
+    1: watch:
+    1: wastes
+    1: warming,
+    1: wanted
+    1: walked
+    1: wake
     1: wait
-    1: wages
-    1: vulnerable
     1: vows
-    1: vortices
-    1: volumes
-    1: voices
+    1: votes
+    1: voters.
+    1: volunteers
     1: viver
-    1: viewing
+    1: visual
+    1: visitorship
+    1: visiting
+    1: violence
+    1: violated
+    1: violate
+    1: villagers
+    1: vie
     1: victims
-    1: vi
-    1: vez
+    1: venture
+    1: vendors
+    1: vast
+    1: valued
+    1: valuation
     1: v.
-    1: utility
+    1: v
+    1: utilities
+    1: ushers
     1: ushered
+    1: useful
     1: used
-    1: us?
+    1: use
+    1: us,
+    1: us
+    1: urges
     1: upping
-    1: upgrade
+    1: upholds
+    1: upgrades
     1: upended
     1: untold
-    1: unnoticed
+    1: unpaid
     1: uniting:
-    1: unites
     1: unique
-    1: union
-    1: undocumented
     1: underwater
-    1: undermines
-    1: underdog
-    1: uncovers
-    1: unchallenged
-    1: uma
-    1: um
+    1: under-30s
+    1: ultrashort
+    1: ultimate
+    1: ugly
+    1: two-time
+    1: twice
     1: tweets
-    1: tweet
-    1: turned
-    1: turmoil
-    1: tune
-    1: tumor
-    1: tube
-    1: trying
+    1: tweens
+    1: tumors
+    1: try
     1: truth
-    1: truly
-    1: truffles
-    1: tropical
-    1: trolls
-    1: troll
-    1: trips
-    1: trip
+    1: trolleys’
+    1: trio
     1: trillion
+    1: tries
     1: tried
-    1: trial,
     1: trial
-    1: tri-series
-    1: treats
-    1: travel
-    1: trap
+    1: tree
+    1: treating
+    1: transgender
     1: transform
-    1: transfigured’:
-    1: training
-    1: tracking
+    1: trampled:
+    1: trained
+    1: trading
+    1: trade-war
     1: track
-    1: to’
+    1: toxin
+    1: town.
+    1: town
+    1: tower
+    1: towards
+    1: tourist
+    1: touring
+    1: toughness
     1: toughest
-    1: tough
-    1: top
+    1: tops
+    1: top-rated
     1: tool
-    1: too
+    1: too:
     1: tonnes
-    1: tomorrow?
     1: tomb
     1: tomatoes
-    1: tolerance'
-    1: together
-    1: tira
-    1: tips
-    1: tiny
+    1: toll
+    1: told
+    1: toiling
+    1: together’:
+    1: together'
+    1: toddler
+    1: today
+    1: tobacco
+    1: tinkers
+    1: tinderbox
     1: times
-    1: time.
+    1: timeline
     1: tile
-    1: tiger
     1: ticks
     1: thunder
-    1: throws
-    1: through
-    1: throngs
-    1: three-Test
-    1: three
+    1: thrown
+    1: threatening,
+    1: threaten
     1: thousands
-    1: this?
-    1: third
-    1: think
-    1: things
+    1: those
+    1: thinks
     1: thing'
-    1: thing
-    1: thieves
-    1: they’re
-    1: they’ll
     1: there
-    1: therapy
-    1: therapeutic
-    1: themselves’:
-    1: that's
+    1: then
+    1: themselves
     1: thanks
+    1: thank
+    1: textures
     1: tests
-    1: testers
-    1: tent
-    1: tem
-    1: telecom
-    1: technology
+    1: testing.
+    1: testers"
+    1: terrorism
+    1: territories
+    1: tempers
+    1: tells
+    1: television
+    1: technology-laden
+    1: technology,
+    1: technique
+    1: tech?
     1: teasing
-    1: tears
-    1: tea
-    1: taxi
-    1: taught
-    1: tart
+    1: teaches
+    1: teachers
     1: tariff
-    1: target
-    1: tap
+    1: targeted
     1: tanks
-    1: talks
-    1: taken
-    1: tailor-made
-    1: tackling
-    1: tackle
-    1: tab
-    1: só
-    1: séculos
-    1: synthesized
-    1: swipe
-    1: swarm
-    1: sustainability
-    1: suspends
-    1: surviving
-    1: survives
-    1: survival
-    1: surrogacy
-    1: surprises
+    1: talking
+    1: talk
+    1: talent
+    1: tale
+    1: tablet
+    1: systems."
+    1: system
+    1: swoon
+    1: switch
+    1: sweet
+    1: sweeping
+    1: swamping
+    1: survivors
+    1: survey
+    1: surveillance
+    1: surrogate
+    1: surprising
+    1: surprise
     1: surged
     1: surge
     1: surface
-    1: supporters
-    1: supply
     1: supermarket
-    1: sun
-    1: subsidies
-    1: stun
-    1: stumping
-    1: stuck
+    1: superhero
+    1: supercomputer
+    1: supercars
+    1: sunlight
+    1: summer
+    1: sultan,
+    1: sulfur
+    1: suicide
+    1: suffering
+    1: suffer
+    1: sued
+    1: sueca
+    1: sucked
+    1: success
+    1: stupid'
+    1: stunning
+    1: stung
+    1: study
+    1: students
     1: structure
-    1: stronger
-    1: strikes
+    1: strongman
+    1: strike
+    1: stretch
+    1: stressed-out
     1: stress
+    1: strengthen
     1: streaming
-    1: streamed
+    1: straws
     1: strategy:
-    1: strange
-    1: stranded
-    1: strains
+    1: strategy
+    1: straight
     1: storm'
-    1: storage
     1: stolen
-    1: still-defiant
-    1: still
-    1: stick
+    1: stocks,
+    1: sterling
     1: stereotypes
-    1: stereo
-    1: step
-    1: stem
-    1: steelmaker
-    1: stays
+    1: steps
+    1: steal
+    1: stay
     1: statues
-    1: station
-    1: statements
-    1: startups
-    1: startup
-    1: starts
-    1: star'
+    1: stations
+    1: statement
+    1: state,
+    1: state
+    1: start
     1: star
-    1: stage
-    1: stadiums
-    1: squad:
-    1: squad
-    1: spring
-    1: splash
-    1: spirits
-    1: spinoff
-    1: spend
+    1: stances
+    1: stable,
+    1: square
+    1: spymaster
+    1: spying
+    1: spreads
+    1: spread
+    1: spot
+    1: spook
+    1: spoil
+    1: splits
+    1: split
+    1: spinning
+    1: spicy
+    1: spectacular
     1: species
-    1: specially
-    1: speaks
-    1: spastic
-    1: sparks
+    1: speak
+    1: spat
     1: space?
     1: space-focused
-    1: south,
-    1: sound
-    1: sons
-    1: someone
-    1: solstice
-    1: sold
+    1: space,
+    1: southwest
+    1: southern
+    1: south
+    1: sounds
+    1: sound-absorbing
+    1: sort”
+    1: soothe
+    1: sooner
+    1: soon:
+    1: solve
+    1: solid
+    1: solar-capacity
     1: solar
     1: soil
-    1: soccer
+    1: soft
+    1: so
+    1: snatches
+    1: smugglers
+    1: small
+    1: slums
+    1: slumps
     1: slum?
     1: slum
     1: slugs
-    1: slow
+    1: slithered
+    1: slides
+    1: slide,
     1: sleep
+    1: slavery
+    1: slammed
+    1: skydive
     1: skincare:
     1: skeleton
-    1: site
-    1: single
+    1: sites
+    1: sinks
+    1: sink
     1: simulate
-    1: silly
+    1: simple
+    1: silly'
     1: signs
-    1: signed
-    1: signals
-    1: sign
-    1: showing
-    1: showdown
-    1: shots
+    1: sights
+    1: sidesteps
+    1: side
+    1: shuts
+    1: shunning
+    1: shout:
+    1: shout
+    1: shot
+    1: shorts
+    1: shorting
+    1: shortage:
+    1: shortage
+    1: shops
+    1: shopping
     1: shop
+    1: shocked
+    1: ship
     1: shine
-    1: shame':
+    1: she
+    1: sharpen
+    1: shareholder
+    1: shame
+    1: shaken
     1: shadow
     1: sex'
-    1: setback
-    1: set
-    1: serve
-    1: serial
+    1: settle
+    1: services
+    1: seriousness:
     1: separations,
-    1: separated’
-    1: separated
-    1: separarem
+    1: separating
     1: sentences
     1: sentenced
+    1: sensitive
     1: sense?
-    1: sense
+    1: seniors
+    1: sends
     1: sells
-    1: self-styled
-    1: self-driving
-    1: seeks
+    1: selloff
+    1: seleção
     1: seeking
+    1: seek
+    1: seeing
+    1: see?
+    1: security:
     1: securing
-    1: sector
+    1: secretive
     1: secretary
-    1: secret
-    1: second-guessing:
-    1: second
+    1: seat
+    1: season
     1: search
-    1: seal
     1: seabirds
-    1: se
-    1: sculptures'
     1: screen
-    1: scooter
+    1: screeching
+    1: scrape
+    1: scored
+    1: scientist
     1: scientific
-    1: sci-fi
+    1: schools
+    1: scheme
+    1: scare
+    1: scandal
     1: scale
-    1: scaffold
-    1: says:
-    1: save
+    1: scaffolding
+    1: saw
+    1: saved
     1: sat-nav
     1: sand’
+    1: sanction
+    1: sampling,
     1: same-sex
-    1: salutes
-    1: sailing
-    1: said
-    1: sacrificed
-    1: sacked
+    1: sales,
+    1: sacred
+    1: runway
+    1: run
+    1: rumors…
     1: rules:
-    1: rude
     1: royal
-    1: row?
-    1: row:
     1: row
-    1: route
-    1: rough
+    1: round
+    1: rolling
+    1: rollercoaster'
     1: rollercoaster
-    1: rollback,
+    1: rolled
     1: role
     1: rocky
+    1: rocket,
     1: rock
-    1: robots
     1: robotic
-    1: robbery'
-    1: roads
-    1: rising
-    1: rips
+    1: road
+    1: risks
+    1: rise
+    1: riot
     1: rewrite
-    1: revive
+    1: rework
+    1: rewards
+    1: revives
+    1: review:
     1: review
     1: reverses
-    1: reversal
-    1: reveals
-    1: reveal
-    1: reunited
-    1: reunion
-    1: retreat
-    1: resume
+    1: revamps
+    1: return
+    1: retreating
+    1: retirement
+    1: retirees
+    1: retaliation
+    1: retail-sales
     1: results
-    1: restricts
+    1: result
+    1: restrictions
+    1: restrict
     1: respond
+    1: respect'
     1: resistance
-    1: resilience
+    1: resigns
     1: residents
+    1: researchers:
     1: researchers
-    1: rescuers?
-    1: rescued
-    1: rescue
-    1: requires
-    1: reports
-    1: repeated
-    1: repair
-    1: renewable
+    1: research
+    1: repulsivas
+    1: reported
+    1: report
+    1: repetitive
+    1: repeats
+    1: repairs
+    1: renovate
+    1: renew
+    1: removing
+    1: removed
     1: remedies
-    1: remains
-    1: relocate
-    1: release
-    1: relationship
-    1: rejects
-    1: reignite
-    1: regeneration
-    1: refuses
-    1: refugee
-    1: reforms.
-    1: reforms
-    1: reformist
+    1: remake
+    1: reliving
+    1: regulators
+    1: regulator
+    1: regrets
     1: reform
-    1: ref
-    1: reefs
-    1: recycling
-    1: records
-    1: recipe
+    1: referendum
+    1: reduces
+    1: redistricting
+    1: recovery
+    1: recipes,
+    1: recipes
     1: reception
-    1: recent
     1: receives
+    1: recado
     1: rebuffed
-    1: rebel
-    1: real
-    1: readers’
-    1: read
-    1: reach
+    1: rebound
+    1: rebels
+    1: reações
+    1: real-estate-ification
+    1: readers
+    1: react
+    1: rattle;
+    1: rattle
+    1: rates
     1: rat's
     1: raps
-    1: rallies
-    1: raid
-    1: racist
-    1: racism
-    1: race’
-    1: race
-    1: rabbi
+    1: rapper
+    1: rape
+    1: rally,
+    1: racket
+    1: racismo”:
+    1: racismo
     1: quotes
-    1: quite
-    1: quiet
-    1: quickly
-    1: questions,
-    1: quantize
-    1: quando
-    1: pup
-    1: punishment
-    1: pulse’
-    1: proving
+    1: quizzes
+    1: quiz
+    1: quietly
+    1: quem
+    1: qualify
+    1: puzzled
+    1: putting
+    1: push
+    1: pursue
+    1: punido
+    1: pundits
+    1: pulses
+    1: pulled
+    1: provocative
+    1: provide
     1: proves
-    1: prototypes
+    1: proved
     1: protocol
-    1: protests
+    1: protesters,
     1: protest
-    1: proteins
     1: protections
     1: protect
-    1: prosecutors
-    1: propaganda'
-    1: propaganda
-    1: prompt
-    1: promotes
-    1: professionals
+    1: prosecutor
+    1: pros
+    1: propels
+    1: promises
+    1: promise
+    1: projects
+    1: projector
+    1: program
+    1: profit
+    1: product
     1: procurement
-    1: processing
-    1: process
-    1: problems
-    1: problem
-    1: probe
-    1: pro-PM
-    1: pro-EU
+    1: private-equity
+    1: privacy
+    1: printed
     1: prime
-    1: pride
-    1: prices
-    1: price
+    1: prevention
+    1: prevent
     1: prevails
-    1: press
-    1: president,
-    1: presidency
+    1: president’s
     1: preserving
-    1: presented
-    1: prepares
-    1: prepared
-    1: premier
-    1: pregnant
-    1: pregnancies
-    1: predicts
+    1: prediction
+    1: predates
     1: pre-existing
-    1: power:
-    1: pours
+    1: practices,
     1: poured
-    1: pounds
+    1: potentially
+    1: potential
+    1: potato
+    1: post-summit
+    1: post-Brexit
     1: post
-    1: possible,
-    1: possessing,
-    1: portrayal
-    1: porn
+    1: possible
+    1: position
+    1: portfolio
     1: poopers:
+    1: pooches
     1: poo
     1: pollution:
-    1: political
-    1: policy,
-    1: pole
-    1: poised
+    1: polls:
+    1: politics.
+    1: police'
+    1: points,
+    1: points
+    1: podcast:
+    1: plunges
+    1: plunge
+    1: plummets
     1: plucky
     1: plot
-    1: please
-    1: plea
-    1: playlist
+    1: pleas
+    1: player
     1: plastic:
     1: plastic-free
+    1: plant
     1: planning
     1: planet
-    1: plane
-    1: plan?
-    1: plan
     1: places?
-    1: places.
     1: placed
-    1: pimp
+    1: place
     1: pigs
-    1: pies
-    1: picture
-    1: photographs
-    1: photoelectric
-    1: photo?
-    1: photo
-    1: phone
-    1: peak'
+    1: pictures:
+    1: physical
+    1: photos:
+    1: photos
+    1: photographer
+    1: phonon
+    1: phones,
+    1: phones
+    1: personal
+    1: performance
+    1: pensions
+    1: pension
+    1: pela
+    1: pegged
     1: peace
-    1: paying
+    1: pays
+    1: payments
     1: payday
-    1: past
-    1: passage
-    1: partners
+    1: pay
+    1: pauses
+    1: patients
+    1: particularly
     1: particle?
+    1: parents’
     1: parents'
-    1: parents
-    1: parent
+    1: parenthood
+    1: parent?
     1: paralysis
+    1: parallels
+    1: parade
     1: parachute
-    1: para
     1: paper
-    1: palsy
-    1: palm
-    1: pairs
-    1: paintbrushes
+    1: panic
+    1: pandas:
+    1: panda
     1: paint
     1: pain
-    1: paedophile'
     1: packed
-    1: owner
-    1: overwhelmed
-    1: outreach
-    1: outrage
+    1: pace
+    1: overseas
+    1: outside
+    1: outlook
+    1: outground
     1: outflows
-    1: out.
-    1: others
-    1: os
-    1: original
+    1: outbreaks
+    1: our
+    1: original-video
+    1: organs
     1: ordinary
+    1: order
     1: orangutan,
+    1: optimists
+    1: optical
     1: oppose
-    1: operate
-    1: opera
-    1: open
-    1: online'
-    1: online
-    1: oldest
+    1: opinion
+    1: ones,
+    1: one-day
+    1: on-demand”
     1: older
-    1: offshore
+    1: old-school
+    1: old
+    1: oil-price
+    1: offset
     1: official
-    1: officer
-    1: office
-    1: offers
     1: offering
-    1: offensive
-    1: off?
-    1: oceans’
-    1: obtain
-    1: objects
-    1: objection':
-    1: o
-    1: não
+    1: off-screen
+    1: odeia
+    1: obtains
+    1: obesity
+    1: nurse'
     1: nuns
     1: numbers
-    1: novel
+    1: nudges
+    1: nuclear
+    1: nova
     1: nothing
-    1: nominees
-    1: nine
-    1: nightclub
+    1: noise-cancelling
+    1: nobody
+    1: nine-year
     1: night
-    1: newspaper
     1: news
     1: never
-    1: nets
-    1: net
+    1: needs
     1: nation’s
-    1: nationwide
-    1: nationalist
-    1: narrowly
-    1: names
-    1: named
-    1: name
-    1: mystery
+    1: nationally,
+    1: nation'
+    1: narrowed
+    1: nanofoam
+    1: na
     1: mysteries
+    1: mutual
+    1: mutilated':
+    1: mutilated
     1: must
-    1: musical
-    1: music
-    1: murders?
-    1: murder:
+    1: murdered
+    1: murder,
     1: murder
-    1: mums
-    1: mum
-    1: moved
-    1: move:
-    1: mountain
-    1: motherhood
-    1: mostra
-    1: more
-    1: moral
-    1: modest
-    1: mixes
-    1: mistakes:
+    1: much
+    1: mouse-and-keyboard
+    1: mouse
+    1: motorcycles
+    1: mothers
+    1: mosque
+    1: more-than-3-week
+    1: months
+    1: monster
+    1: monks
+    1: modern
+    1: mode,
+    1: mixed
     1: mistakenly
-    1: mirror
+    1: missile
+    1: misses
     1: miracle
-    1: minutes
-    1: minority
-    1: minister
-    1: mingle
+    1: mind’?
+    1: mind':
     1: millionaires
-    1: militant
     1: milestone
-    1: migrantes
-    1: midterms
+    1: migration
     1: midterm
-    1: method
-    1: metal
-    1: messenger:
+    1: mice
     1: messaging
-    1: messages
-    1: mention
+    1: mesa?
     1: mentality
     1: mental
-    1: menswear
     1: men
     1: memorial
     1: memorable
-    1: members
-    1: meets
+    1: meetings
     1: meeting:
     1: meeting
     1: meet
-    1: medical
     1: media:
-    1: mean
-    1: me'
+    1: meat:
+    1: measure
+    1: meant
+    1: means
+    1: mayor’s
     1: mayor
-    1: maths
-    1: material
-    1: matches
-    1: match
+    1: mates
+    1: materials
+    1: matchwinner
     1: mastered
-    1: master
     1: martian
-    1: marks
     1: markets
-    1: market
+    1: marketing
     1: mark
     1: maritime
-    1: marchers
-    1: map
+    1: march
+    1: manufacturing
+    1: manipulator’,
+    1: manipulation
+    1: manipulated
+    1: manda
+    1: managers
     1: mammals
-    1: making
+    1: makes
     1: major
     1: mais
-    1: luxury
+    1: magnet'
+    1: made:
+    1: machine
+    1: lying
     1: lung
-    1: lunchbreak
-    1: loved
+    1: lows,
+    1: lower,
     1: love
-    1: loss
-    1: losing
     1: loses
-    1: lose
     1: lord
-    1: looks
-    1: longstanding
-    1: location
+    1: loop
+    1: long-lost
+    1: lone
+    1: lockdown
+    1: locations
+    1: locally
+    1: local
     1: loans:
-    1: living?
-    1: living
-    1: lives
     1: live
     1: listings
-    1: lion
+    1: listing
+    1: linked
+    1: line’
+    1: line.
+    1: limits
+    1: limit
+    1: likes
+    1: like?
+    1: like'
     1: lightning
     1: lightness
-    1: lifts
-    1: lifted,
-    1: lift
-    1: lifetime’:
-    1: lied
-    1: lie'
-    1: licence
+    1: lifted
+    1: lifetime—now
+    1: lifesaver':
+    1: lies
+    1: license
+    1: libraries
+    1: level
     1: lets
-    1: legalise
-    1: leaves
-    1: leather
-    1: leaps
+    1: let
+    1: lei
+    1: legs
+    1: legalising
+    1: legacy
+    1: leave?
+    1: least
     1: leaked
+    1: leak
     1: leads
     1: leading
-    1: leaders'
+    1: leader
     1: lead
-    1: lawyers
     1: lawsuit
-    1: law
-    1: laundering
-    1: launches
     1: launched
-    1: largest
+    1: latest
+    1: last-16
+    1: last
+    1: lashes
     1: largely
-    1: laptop
-    1: language
-    1: lands
+    1: laptops
+    1: landscape
+    1: lackeys
     1: laboratory
+    1: labels
     1: lab
     1: known
-    1: know
-    1: knife
-    1: knew
-    1: kittens
-    1: kingdom
-    1: killer
-    1: kidnappers
+    1: knock
+    1: kingdom'
+    1: kindergarten
+    1: killings
+    1: killed
+    1: kidnapped
     1: kicked
-    1: keyboards
-    1: keeping
-    1: keep
+    1: já
+    1: jury
     1: junk
     1: jumps
-    1: jovem
+    1: joy
+    1: journey:
+    1: journalistic
     1: journalism
     1: jolts
-    1: join
     1: jobs
-    1: job
-    1: jail?
-    1: jacket?
-    1: jacket:
-    1: itself
-    1: it?
-    1: it,
-    1: issue
-    1: isso
-    1: irmãos
-    1: invests
-    1: investor
-    1: investigates
+    1: jitters
+    1: jailing
+    1: jacket
+    1: it's
+    1: issues'
+    1: island
+    1: irresponsible':
+    1: irony
+    1: investigation
     1: investigate
-    1: intensifying
-    1: intense
-    1: insurance
-    1: insult
+    1: invest
+    1: invader
+    1: interview
+    1: internet
+    1: interest
+    1: intensify
+    1: intensifies
+    1: insulin
+    1: installation
+    1: insights
     1: inside
-    1: inquiry:
-    1: inquiry
+    1: insanely
+    1: innovative:
     1: inner
-    1: injury-time
     1: ingress
     1: ingredients
     1: ingredient
-    1: infrastructure
-    1: infrared
-    1: information
-    1: influence
-    1: independence
-    1: indefinitely
-    1: indefinite
-    1: incredible
-    1: incorrect
-    1: improvements
-    1: imprisoned
-    1: impress
-    1: imports,
+    1: influenced
+    1: inflows
+    1: induced
+    1: indoor
+    1: index’s
+    1: index'
+    1: independence'
+    1: including
+    1: include
+    1: incivility
+    1: incident
+    1: in.
+    1: improper
+    1: impart
     1: immune
     1: immigrants
-    1: immigrant
-    1: images
-    1: ill
-    1: ignoring
-    1: if
-    1: ideologies
-    1: iOS
-    1: há
+    1: imigrantes
+    1: illegality.
+    1: illegal
+    1: identify
+    1: ice
+    1: iQiyi
     1: hysterectomy
-    1: hymns:
-    1: husband?
+    1: hustles
     1: hurts
-    1: htsget
-    1: hotly
+    1: hunt
+    1: hunger
+    1: humans
+    1: hours
     1: hotel
-    1: hot
-    1: hosts
-    1: horrible
-    1: hoping
-    1: hopeful
-    1: hope
-    1: honored
-    1: homophobic
-    1: homens
-    1: hollow
+    1: hospital
+    1: hormones,
+    1: horizon
+    1: hopes
+    1: honoured
+    1: homes
     1: holds
-    1: hits
-    1: hipster
-    1: him
-    1: hikes
-    1: hike
-    1: hides
+    1: hitting
+    1: hit
+    1: history
+    1: historic
+    1: highlights
+    1: highest-flying
+    1: highest
+    1: higher,
     1: hidden
     1: here
     1: her
     1: helping
     1: hell
-    1: hedge
-    1: heat
+    1: heatwave:
+    1: heatwave!
+    1: heatwave
+    1: hearty
     1: heart
+    1: hear
+    1: headphones
     1: heading
     1: head
-    1: he?
+    1: he's
     1: having
     1: hats
     1: hate?
+    1: hate
     1: hat
-    1: happens’:
-    1: happening.'
+    1: hasten
+    1: hasn't
+    1: harness
+    1: hard-line
+    1: harassment
+    1: harassing,
+    1: happens
+    1: happening':
     1: happening
-    1: happened
+    1: hanged'
+    1: hands
+    1: hammered
+    1: halts
+    1: halloumi
     1: half
-    1: hairstyles
-    1: hair
-    1: had
-    1: hacked?
-    1: growth
-    1: groups
-    1: greenhouse
+    1: gynaecologist
+    1: gunshot
+    1: guide
+    1: guest
+    1: grows
+    1: group
+    1: groomer
+    1: grew
+    1: greatest
     1: gravity
-    1: grapes
-    1: grant
+    1: grasping
+    1: grants
+    1: granted
+    1: grandma's
     1: grandest
-    1: grade
-    1: grabs
-    1: governance
+    1: graffiti
+    1: government
     1: goods
-    1: golf
+    1: gold
+    1: going
     1: god
     1: goals
-    1: go
-    1: give
-    1: girls?'
-    1: getting
-    1: gestures
-    1: genomic
-    1: genocide
-    1: genetic
+    1: girl
+    1: gift
+    1: gets
+    1: gesture'
+    1: general
     1: gene-edited
+    1: geeks
+    1: gathering
+    1: gather
     1: gas
-    1: garden
-    1: gang
-    1: game
-    1: fury
+    1: garments
+    1: gaming
+    1: games?
+    1: games
+    1: galore
+    1: galaxy
+    1: gains
+    1: fury'
     1: further
-    1: fund
-    1: fume
+    1: funeral
+    1: fundamentals
     1: fuels
     1: fuel
-    1: frozen
-    1: front
     1: frogs
+    1: friend
     1: fresh
-    1: freediving'
+    1: frenzy’
+    1: fraud
     1: fragments
-    1: fracture
     1: four
-    1: foundation
+    1: fought
     1: fossils
     1: fossil
-    1: forward
-    1: former
-    1: form
+    1: forgotten
+    1: foreign
     1: force
-    1: for?
-    1: foot
+    1: food'
     1: food
-    1: follow
-    1: flowers
-    1: flow
-    1: flooding
+    1: following
+    1: foi
+    1: foe
+    1: focusing
+    1: focused
+    1: focus
+    1: flying
+    1: florist
+    1: floats
+    1: flights
     1: flight
-    1: flicks
-    1: flee
-    1: flames
-    1: flags:
-    1: fit
-    1: first-ever
-    1: firm
-    1: firefighters
-    1: fire
-    1: finger
-    1: film
+    1: flavors
+    1: flare
+    1: firms
+    1: fires
+    1: finished
+    1: fines
+    1: fined
+    1: fine
     1: filling
+    1: fights
     1: fighting
-    1: fighters’
-    1: fightback
     1: fight
     1: field
-    1: females
-    1: felon
-    1: feels
-    1: federal
-    1: featherweight
-    1: fear
-    1: fazem
-    1: favorite
-    1: father
-    1: fast-track
-    1: fashion
-    1: farmers
-    1: farm
-    1: fanning
-    1: famílias
+    1: fiduciary
+    1: fiction)
+    1: feud
+    1: feta
+    1: festival
+    1: fend
+    1: featured
+    1: feature:
+    1: feathered
+    1: favors
+    1: fate
+    1: far
+    1: fan-funded
+    1: famous.
+    1: families.
     1: falsely
-    1: false
     1: falls
-    1: fairest-minded
-    1: failures
-    1: factory
-    1: facilities
+    1: fall
+    1: fair?
+    1: failure
+    1: failing
+    1: faces
+    1: eyeing
+    1: exultantly
+    1: extremely
+    1: extra
     1: extinct
-    1: extent
-    1: exporter's
+    1: extension
+    1: extends
     1: exploration
     1: explains
-    1: explain
-    1: expert
-    1: expensive
+    1: expertly
+    1: expertise
+    1: experiment
+    1: experiences
+    1: expelled
+    1: expected
+    1: expect
+    1: expat
+    1: expands
+    1: expand
+    1: exit
     1: exist’
-    1: exercises
-    1: executive
-    1: excluded
-    1: exchanges
-    1: examines
-    1: exam
-    1: ex-envoy
-    1: ex-diplomat
-    1: ex-Trump
-    1: everything'
-    1: every
-    1: eventually
-    1: evangelicals
-    1: ethics
-    1: esporte
-    1: escalating
-    1: erupt
+    1: exemption
+    1: excitement
+    1: exchange-traded
+    1: exchange
+    1: excel
+    1: exactly
+    1: ex-astronaut
+    1: everything
+    1: ever,
+    1: ever
+    1: even
+    1: evacuation
+    1: eternal
+    1: essay
+    1: escalation
+    1: escalate
+    1: erased
+    1: era
     1: equity
-    1: epidemic,
+    1: equities
+    1: epilepsy
+    1: envoy
+    1: ensures
     1: enough
-    1: energy?
-    1: energy
+    1: enemy,
     1: enduring
-    1: end
-    1: en
-    1: empty
-    1: employer
-    1: embrace
-    1: embark
-    1: email
-    1: em
+    1: encontramos…
+    1: encapsulates
+    1: enabling
+    1: empowering
+    1: emissions,
+    1: embezzlement
+    1: elite
+    1: elements
     1: electrifying
+    1: electricity
     1: electric
-    1: elections
-    1: elected
-    1: elaborate
-    1: ejected
+    1: electoral
+    1: elections':
+    1: election,
+    1: elders
     1: eject
-    1: effect'
-    1: effect
+    1: either
+    1: eggplant
+    1: effective
     1: education
-    1: editorial
-    1: edit:
-    1: edge
-    1: eastern
-    1: east
-    1: earns
+    1: editing
+    1: economist
+    1: eco-friendly
+    1: echo
+    1: eavesdropping
+    1: easier?
+    1: ease
+    1: earned
     1: early
-    1: e
-    1: duties
+    1: each
+    1: eBay
     1: dust:
     1: dust
-    1: duo
+    1: due-process
     1: drugs
-    1: drug
+    1: drowns
     1: drops
-    1: driving.
+    1: drop,
+    1: drone
     1: drives
-    1: drive,
+    1: drivers
+    1: driver?
+    1: driver
     1: drive
-    1: dripping
-    1: drilling
     1: dreams:
     1: dreamed
+    1: draws
     1: dramatic
-    1: drained
+    1: drama,
     1: dragon
-    1: dozens
-    1: dozen
+    1: drag
     1: dos
-    1: donations
-    1: dominate
-    1: dominant
+    1: doors
+    1: don’t
+    1: don'ts
+    1: don't
+    1: dollar
+    1: doing
+    1: dogs?
+    1: dog
+    1: doesn't
     1: dodges
-    1: documents:
-    1: doctors'
-    1: divided
-    1: dives,
-    1: disturbance
-    1: distributing
+    1: doc
+    1: divide:
+    1: diverse
+    1: ditching
+    1: disturb
+    1: distributed
+    1: distances
+    1: dispute
+    1: displaced
     1: dismiss
+    1: dishes
+    1: dish
+    1: disgraced
     1: disease
-    1: discordant
-    1: discharge
-    1: direction
-    1: dinosaurs?
+    1: discusses
+    1: discuss
+    1: discriminated
+    1: disappointing
+    1: directors
+    1: dips
+    1: dippy
+    1: dioxide
     1: dinosaur
-    1: dinheiro
+    1: digital
     1: dies:
-    1: did’
-    1: didn’t
+    1: didn't
+    1: did
     1: diaries
+    1: diante
+    1: diamond
+    1: diabetics
     1: dexterous
-    1: development
+    1: devices
+    1: developing
+    1: developers.
     1: developer
-    1: determined
-    1: deter
+    1: developed
+    1: details
     1: detailed
-    1: destroying'
-    1: desserts
-    1: designed
-    1: describes
-    1: derailed
-    1: departs
-    1: demonstration
-    1: demons:
+    1: destroyed’:
+    1: despite
+    1: desalination
+    1: depriving
+    1: deported
+    1: deportation
+    1: deport
+    1: dependency
+    1: densely
+    1: denies
+    1: denied
+    1: demo:
     1: demo
-    1: demiti
-    1: delighted
-    1: delay
-    1: definitive
-    1: defiant
+    1: demand
+    1: delivers
+    1: delays
+    1: del
+    1: deficit
     1: defends
-    1: defender
-    1: defend
-    1: defeated
-    1: defeat
-    1: deeply
-    1: deepened
+    1: defeat,
+    1: deer
     1: deep
-    1: decision,
-    1: debut
-    1: deaths
-    1: deathmatch
-    1: death
-    1: dearly
+    1: decrease
+    1: decode
+    1: decline
+    1: declares
+    1: deckchair
+    1: decades
+    1: debates
+    1: debate:
     1: dear
-    1: deal’
-    1: dealings
-    1: deadline
-    1: daypack
-    1: date:
+    1: dealers':
+    1: deal?
+    1: deal.
+    1: deal'
+    1: deadly
+    1: dead.”
+    1: dead.
+    1: dead'
+    1: de
+    1: daughters
     1: dangerous
-    1: damage
-    1: cycled
-    1: cut
+    1: dance
+    1: dampens
+    1: daguerreotypes
+    1: da
+    1: cuttlefish
+    1: cutting-edge
+    1: customs
+    1: customers
+    1: custody
     1: currency
+    1: curls
     1: culture
-    1: cultura,
-    1: cryptocurrency
+    1: crypto
     1: cruzam
-    1: crossing
-    1: crosshairs
-    1: crossed
+    1: crueldade
+    1: crown
+    1: cross’
     1: critics
-    1: crispy
-    1: criminalising
-    1: cries
+    1: criticism
+    1: criminal
+    1: cricket
+    1: credit
     1: creation
-    1: create
-    1: creams
-    1: cream?
-    1: crash:
-    1: covers
-    1: course
-    1: courgette
-    1: couple’s
+    1: creams,
+    1: cream
+    1: crafted
+    1: crackdown
+    1: courage
+    1: couple
     1: country's
-    1: council
+    1: countries
+    1: cotton-picking
     1: corn
+    1: core
+    1: cops
+    1: cope
     1: cooperation
-    1: cookout
-    1: cook
-    1: control
-    1: contested
-    1: contender
-    1: contained
-    1: confusion,
+    1: cooler
+    1: controller,
+    1: contributes
+    1: contra
+    1: continue
+    1: content?
+    1: contender,
+    1: contemporary
+    1: considers
+    1: conscience,
+    1: conscience
+    1: congressional
     1: confusion
     1: confirm
+    1: confidence
     1: conference
     1: conditions
-    1: concerns,’
+    1: concern
+    1: computer:
     1: computer
-    1: compromise
-    1: comparing
-    1: company
+    1: company.
+    1: commuters
     1: commuter
-    1: communications
     1: common
     1: commercial
     1: comments
+    1: commentary
     1: commander
-    1: comedy.
+    1: coming
     1: combat
-    1: com
-    1: column.
     1: colour
-    1: color-changing
     1: collider
+    1: college
+    1: collapsing?
     1: collaboration
-    1: coincidência.
-    1: codes
-    1: co-founder
-    1: clothing
-    1: closer
-    1: clinic:
-    1: clients
-    1: client
+    1: collaborates
+    1: coherent
+    1: coffins
+    1: coal
+    1: coach
+    1: club
+    1: closing
+    1: close':
+    1: close
+    1: clog
+    1: clocked
+    1: clients:
     1: clear
-    1: cleaning
     1: classic
-    1: clashes
-    1: clambers
-    1: claims
-    1: claim
     1: city'?
-    1: citizen
+    1: citizens
     1: circle
-    1: chose
-    1: chief's
-    1: cherry
-    1: chemists
+    1: chronicler
+    1: children,
+    1: child.
+    1: child
     1: chemistry
-    1: chemist
-    1: cheaper
-    1: charity
-    1: charitable
-    1: charge
-    1: chaotic
-    1: chants
+    1: chemicals
+    1: chemical
+    1: cheer
+    1: check
+    1: character
     1: changes
+    1: changed,
     1: chance
-    1: cerebral
-    1: century
-    1: centre
-    1: centers
-    1: cellular
-    1: celebrity
-    1: celebration
-    1: celebrating
-    1: cease-fire
-    1: cave
-    1: causes
-    1: caused
-    1: catches
-    1: case
+    1: chains
+    1: chain
+    1: centres
+    1: celebrates
+    1: ceasefire
+    1: cautious
+    1: cauliflower:
+    1: caught
+    1: catalyst
+    1: cat
+    1: cases
     1: cartoonists
-    1: cartilage-based
-    1: carrying
+    1: cartoon
+    1: carry
+    1: careful'
+    1: careful
+    1: care"
+    1: care
+    1: card—is
     1: cards
-    1: car's
-    1: capable
-    1: cancellation
-    1: canceled
+    1: carbon
+    1: canopies,
+    1: cannabis-derived
+    1: cannabis-based
+    1: cancerous
+    1: cancel
     1: can't
     1: camps
-    1: came
+    1: camping
+    1: campaign
+    1: camp
     1: calm
-    1: called
-    1: cake
+    1: calculation
+    1: cabinets
     1: buying
-    1: buttery,
-    1: busted
-    1: bunker
-    1: buceta
+    1: buy?
+    1: butte?
+    1: businesses
+    1: bus
+    1: burnout
+    1: burkinis:
+    1: burgers
+    1: brutality,
+    1: browsing
+    1: brought
     1: brokers:
-    1: broken?
+    1: bringing
     1: bring
+    1: brightest
     1: brighter
-    1: bridge
-    1: breakup
+    1: bright
+    1: brides
     1: breaks
-    1: breaking
-    1: brasileiros
-    1: brancos.
     1: branch
+    1: brain-machine-interface
     1: brain
-    1: brace
     1: boy,
-    1: boy
-    1: box
-    1: boundaries'
-    1: both
+    1: bots
+    1: boss
     1: border?
-    1: border-crossers
-    1: border,
-    1: booze
+    1: border
     1: booming
     1: books
     1: book
     1: bone
+    1: boiled
     1: body
-    1: boca
-    1: boat
     1: board
-    1: blue
-    1: blow
-    1: blouses
-    1: blood
-    1: blazes
-    1: blaze
-    1: blast
-    1: bits':
+    1: bluffing
+    1: blocks
+    1: blocked
+    1: blockchain
+    1: birthday
+    1: birth
     1: birds
-    1: biopsies
-    1: biodegradable
+    1: bioprocessed
+    1: biologists
+    1: biofuels
+    1: bind
     1: bills
-    1: billions?
+    1: billion,
+    1: bikes
     1: bigger
-    1: beta
-    1: beliefs
-    1: being
-    1: begins
-    1: been
+    1: beyond’
+    1: beyond
+    1: between
+    1: bets
+    1: benefits
+    1: benefit
+    1: belly
+    1: believe
+    1: behavior
     1: bee
-    1: bed
-    1: becomes
-    1: become
-    1: because
-    1: beats
+    1: becoming
     1: beamed
-    1: battle
+    1: battleground
+    1: battled
     1: battery
     1: batteries
-    1: barrier
-    1: barbaridade.
-    1: bar
-    1: banned
+    1: bases
+    1: based
     1: banks
-    1: ban:
     1: ballot
     1: bag
     1: bad
-    1: bacteria
-    1: backups
+    1: backs
+    1: backpacks
     1: backlash
-    1: baby
-    1: awarded
+    1: babies'
+    1: away
+    1: awards
     1: award
-    1: automatically
+    1: average
+    1: auto—now
     1: automate
+    1: autism
+    1: authorities:
+    1: austerity
     1: auction
-    1: até
+    1: attraction?
     1: attorney
-    1: attempt
-    1: attacks
-    1: attacker
-    1: attack,
     1: atop
     1: atmosphere:
     1: assembly
-    1: assassination
-    1: assassinado.
-    1: artists'
-    1: art?
+    1: assault,
+    1: aspect
+    1: asked.
+    1: artists
+    1: artist
+    1: art
+    1: arson
     1: arrives
-    1: around
-    1: arms;
+    1: arrival
+    1: array
     1: areas
-    1: approval
+    1: archipelago
+    1: approved
+    1: approach
     1: appointed
     1: applying?
-    1: appeals
-    1: apparent
-    1: app
-    1: apology
-    1: apologises
+    1: appease
+    1: appears
+    1: appeal
     1: ape
-    1: anywhere
+    1: apartheid
     1: anyone
-    1: any
-    1: antibacterial
-    1: anti-Brexit
-    1: answered
+    1: antitrust
+    1: anti-U.S.
+    1: anti-Semitic
     1: answer
-    1: another
-    1: anniversary
-    1: animals
-    1: angrier
+    1: annual
+    1: animals,
+    1: animal
     1: ancient
     1: analytics
+    1: among
     1: amber
-    1: am
-    1: alternative
-    1: alone:
+    1: alt-right
+    1: already
+    1: along
+    1: allowed
     1: allies
-    1: alliance
     1: alleged
-    1: all?
-    1: all-female
+    1: all-electric
     1: alike
+    1: algae
+    1: alert
+    1: al-Dawsari
     1: aims
-    1: ahead
-    1: agrees
+    1: aimed
+    1: aides
+    1: agreeable
+    1: agony
+    1: agency
     1: aged
+    1: age
+    1: agalactiae
     1: africanos
-    1: affect
-    1: advocated
+    1: advocates
     1: adviser
     1: adverts
     1: advertiser
-    1: advances
-    1: adults'
+    1: adults
     1: ads
     1: administration
+    1: adds
+    1: address
+    1: ad
+    1: actually
+    1: acts
+    1: actresses
     1: activity
     1: activists
+    1: activate
     1: actionable
-    1: across
-    1: accuses
-    1: accidentally
-    1: accident
-    1: academic’
-    1: abrigo
-    1: abraçassem
-    1: abortion
+    1: act
+    1: achieves
+    1: accused
+    1: accusations
+    1: according
+    1: accident,
+    1: accessible
+    1: accessed
+    1: abuses
+    1: abolished
+    1: ability
+    1: [Updated]
     1: Zunum
     1: Zuckerberg,
+    1: Zoo
     1: Zone’
     1: Zone
     1: Zipline
-    1: Zimbabwe’s
-    1: Zero-Tolerance
-    1: ZTE
+    1: Zillow
+    1: Zephyr
     1: Z3,
     1: You’re
-    1: Yotam
+    1: You—Urban
+    1: Young
     1: York’s
-    1: Yorker
     1: York,
+    1: York
+    1: Yoga
+    1: Yes,
     1: Yen:
-    1: Yemen’s
-    1: Yemen,
+    1: Yemeni
+    1: Yemen
+    1: Yelp
     1: Yellowcake
     1: Years
     1: Year,
-    1: Year
     1: Yarn
-    1: Xiaomi
     1: Xi
+    1: Xherdan
     1: Xhaka
+    1: Xerox
     1: XXXTentacion
     1: XPoint
-    1: X-Plane
     1: Writing
-    1: Would
+    1: Wozniacki
     1: Worsen
-    1: World’s
+    1: World”
     1: Worlds
+    1: World's
     1: Work!
-    1: WordPress.com
+    1: Words
     1: Won't
     1: Won
-    1: Women:
-    1: Woman”
-    1: Woman
+    1: Women
     1: Wolves
-    1: Wolf
     1: Without
+    1: Wisconsin
     1: Wins
+    1: Winnie
     1: Wings
-    1: Wing
     1: Wine,
+    1: Windrush
+    1: Windows
     1: Win,
+    1: Win
+    1: Wimbledon
+    1: William's
+    1: Wildfire
+    1: Wilder
     1: Whitson
-    1: Whistleblowers
+    1: Whiskey
     1: While
-    1: Where
-    1: What’s
+    1: Which
+    1: Where’s
+    1: Wheels.
     1: What's
     1: We’re
-    1: Western-led
-    1: Western
+    1: Westworld’s
+    1: Westminster
+    1: Wesson,
+    1: Wendelstein
     1: Welcome
-    1: Weirder
-    1: Weird.
     1: Weigh
-    1: Weekend,
+    1: Weekly
     1: Weekend
     1: Week:
     1: Week.
-    1: Web
+    1: Week's
+    1: Wednesday
     1: Wearables
     1: Wearable,
     1: Weaponized
     1: Weapon
-    1: Ways
+    1: We've
+    1: Wayne
     1: Waves
+    1: Watson
+    1: Waters:
     1: Waterbeds
-    1: Watch:
-    1: Watch
+    1: Watching
     1: Washington,
-    1: Wars
+    1: Washington's
+    1: Wars”
     1: Warrant
     1: Warnings
     1: Warning:
     1: Warning
-    1: War,
+    1: War's
     1: Wanted:
     1: Wanted
     1: Want
+    1: Walt
     1: Walking
-    1: Wakanda'
-    1: Wakanda
-    1: Wainwright
-    1: WA
+    1: Waiting
+    1: WTI
     1: Vulnerable
-    1: Vows
-    1: Volkswagen
-    1: Voices
-    1: Voce's
+    1: Vulnerability
+    1: Voice
     1: Visionary,
     1: Vision
     1: Virgo
-    1: Virginia’s
     1: Viral
-    1: Violent
-    1: Violence
+    1: Villain
     1: Viking,
-    1: Veto
+    1: Video:
+    1: VidCon,
+    1: Victory,
+    1: Victory
+    1: Victorian
+    1: Vettel
     1: Vertical-Video
-    1: Versus
     1: Verity
-    1: Ventures
     1: Vehicles
     1: Vehicle
-    1: Vegas
     1: Vegan
     1: Vault
-    1: Vandalism
+    1: Vandal
+    1: Valve
+    1: Values
     1: Valley?
-    1: Valenti
+    1: Valdano
     1: Vagus
     1: Vacs,
-    1: VW's
-    1: VC
-    1: Use
+    1: Va.
+    1: VR
+    1: Users
     1: Us
     1: Urban
     1: Uranium
+    1: Up’
     1: Upskirting
     1: Upgrade,
     1: Updates
     1: Updated
+    1: Update
     1: Upcoming
-    1: Unravelling
-    1: Unprepared
+    1: Up,'
+    1: Unvetted,
     1: Unprecedented
+    1: Unnerving
     1: Unmanned
-    1: Unlimited
-    1: University
-    1: Undocumented
+    1: United
+    1: Unethical
     1: Understanding
     1: Under-$10K
+    1: Under
     1: Un
     1: Umbrella
-    1: Uber's
-    1: US-Canada
+    1: Ukip
+    1: US:
+    1: US-EU
+    1: US-China
     1: UNISPACE+50
-    1: UN
-    1: UMBC
     1: ULA
+    1: UK?
+    1: UK:
     1: UK-led
-    1: UC
+    1: UK,
     1: U.S.-based
+    1: U.S.-Mexico
+    1: U.N.
+    1: U.C.
+    1: Twitter,
     1: Twitter's
-    1: Twitter
+    1: Twisting
     1: Twilight
     1: Twenty
-    1: Tweets
-    1: Turn
-    1: Turkey’s
+    1: Turned
     1: Turkey?
-    1: Turkey
-    1: Trying
+    1: Turkey's
+    1: Tube
     1: Truth-Affirming
-    1: Trump-Putin
-    1: Troye
-    1: Troubled
+    1: TrumpHotels.org
+    1: Trolls
     1: Trimble
     1: Tried
     1: Tricky
-    1: Trethewey
-    1: Treat
     1: Traveling
     1: Travel
     1: Transit
     1: Transhumanism
     1: Transforms
-    1: Training
+    1: Trajectories
+    1: Train
     1: Tragedy
-    1: Trafficking
     1: Traffic
-    1: Trade
+    1: Trade-war
     1: Track
-    1: Trace”
     1: Towers
-    1: Tower
-    1: Total
     1: Tornado
+    1: Tops
     1: Top-Level
     1: Tools
     1: Too'
-    1: Tommy
-    1: Tom
     1: Tolerance”
-    1: Toddlers
+    1: Tobacco
     1: Titan
-    1: Tisdall
-    1: Timbuk2’s
-    1: Tiana
-    1: Thursday,
-    1: Thrones
+    1: Times
+    1: Tightens
+    1: Tiger
     1: Thrive
-    1: Three
     1: Threats
+    1: Threatens
+    1: Thread
     1: Thought
     1: Those
-    1: Thomas
+    1: Things:
     1: Thing
+    1: Thiel:
     1: They
+    1: Then
     1: Them
     1: Theater
     1: That.
     1: Thank
-    1: Thailand
+    1: Than
+    1: Thai
     1: Terror'
     1: Terrible
+    1: Terrance
     1: Terrafugia
-    1: Tensions
-    1: Temer
+    1: Terminators
+    1: Temple
+    1: Temperatures
+    1: Tells
     1: Tell?
+    1: Tell:
     1: Tell
     1: Telescope
-    1: Telegram
-    1: Teens
+    1: Teleconference
+    1: Teen-Age
     1: Technology
+    1: Team
+    1: Teachout
+    1: Teachers
+    1: Teacher's
     1: Taxi
     1: Tax
-    1: Tavern,
+    1: Taunting
     1: Taste
-    1: Tasmania's
-    1: Tariff
+    1: Tasmanian
     1: Targets
+    1: Target
     1: Tanzanian
     1: Tanks
-    1: Tall
+    1: Tamil
     1: Talk
     1: Taliban
     1: Takeoff
-    1: Taiwan's
+    1: Tactics
     1: Tackles
-    1: TV’s
+    1: Table
+    1: Tab
+    1: TV:
     1: TRAPPIST-1
     1: TESS
-    1: T20
+    1: TC
     1: System”?
+    1: Syria,
     1: Synthesizer
+    1: Syndicate:
     1: Switzerland's
     1: Switzerland
     1: Switch
     1: Swiss
     1: Sweet
+    1: Sweden’s
+    1: Sweden
     1: Swarming
+    1: Suárez
+    1: Suzanne
     1: Sustainability
-    1: Survives
     1: Surveillance
     1: Surging
     1: Surge
-    1: Supply
-    1: Superconducting
-    1: Supercharged
+    1: Supremacy,
+    1: Supercomputing
+    1: Super
+    1: Sunday
     1: Sumatran
+    1: Suit
     1: Suisse
     1: Suggest
     1: Sue
-    1: Subscriptions,
-    1: Stuff
+    1: Sudan,
+    1: Sudan
+    1: Subscriptions
     1: Studios
-    1: Strongman
-    1: Strikes
-    1: Stretched
+    1: Structure
+    1: Stronger
+    1: Strike
     1: Strengthens
-    1: Strategy
-    1: Strangers”
-    1: Strains
-    1: Straight-Pride
-    1: Story
-    1: Storm,
+    1: Street's
+    1: Story:
+    1: Stormy
+    1: Storm:
     1: Storm's
     1: Storage
+    1: Stopped
     1: Stood
     1: Stocks'
+    1: Stock
     1: Stimulation
-    1: Step-by-step
-    1: Steny
-    1: Staten
-    1: State
-    1: Starve
-    1: Starkness,
+    1: Stealing
+    1: Staying
+    1: Station,
+    1: States
+    1: Statement
+    1: Starbucks
     1: Star
-    1: Standoff
+    1: Stanley
+    1: St.
+    1: Sri
     1: Squeeze
-    1: Square
     1: Spying
-    1: Spy
     1: Spurs
     1: SpotMinis
-    1: Split
-    1: Sphero
-    1: Spent
     1: Spends
     1: Speeds
     1: Speed
-    1: Speechlessness,
+    1: Speculative
+    1: Speakeasy
     1: Spawning
     1: Spanish
-    1: Spain
-    1: Sorry,
+    1: Southwest
+    1: Southgate
+    1: Soon
     1: Sony's
     1: Sonos
+    1: Sonic
     1: Son.
-    1: Son
-    1: Somalia,
+    1: Some
+    1: Solve
     1: Solution
-    1: Society
-    1: Social
+    1: SolarCity
+    1: Solana
+    1: Sohail
+    1: Societies
+    1: Social-Media
     1: Soccer’s
-    1: Soccer
     1: Sobeck
     1: Soaring
+    1: Snapshot:
+    1: Snapdragon
     1: Snapchat
+    1: Smyth
     1: Smith
     1: Smarts
-    1: Sleep,
+    1: Small
+    1: Slide
     1: Slaughterbots
     1: Sky
     1: Skinsuits
     1: Skeleton
-    1: Sivan,
-    1: Sino-U.S.
-    1: Sinks,
-    1: Since
+    1: Size
     1: Simulation
-    1: Simon
+    1: Simple
     1: Silk
-    1: Signals
+    1: Significantly
     1: Sights
     1: Siemens
     1: Sickness
+    1: Sicily
+    1: Sibblies
+    1: Shut
     1: Shunning
     1: Shows
-    1: Showman
-    1: Shooting
-    1: Shocking
-    1: Shift
+    1: Show:
+    1: Shots
+    1: Shelter
     1: Sheffield's
-    1: Sheep
-    1: She
     1: Shatters—Communities
-    1: Shares
+    1: Share
     1: Shaqiri
+    1: Shaming
     1: Sex,
     1: Sex
     1: Sets
-    1: Set
     1: Services
-    1: Serves
+    1: Serve
     1: Serpentwithfeet’s
     1: Serial
     1: Serbs
+    1: Separation
     1: Separating
     1: Separates
     1: Separated
-    1: Separar
     1: Sensual
     1: Sensor
-    1: Senegal's
+    1: Senegal
     1: Senators
     1: Sen.
     1: Semisolid
+    1: Sell
+    1: Selfies
     1: Selfie
+    1: Self-Driving
     1: Seeks
     1: Seeds
-    1: See
     1: Seduce
-    1: Security,
-    1: Secure
     1: Secret
     1: Seconds
     1: Second
+    1: Sebastian
     1: Seat
     1: Seasons?
     1: Seaplane
     1: Seals,
     1: Seabirds,
+    1: Screws
     1: Scottish
-    1: Scott
-    1: Scots
-    1: Scotland:
-    1: Scooter
+    1: Scientists
     1: Scientist's
+    1: Sciences
     1: Schumer
     1: Scheme
-    1: Scene
     1: Scary
     1: Scanning
     1: Scandal
     1: Scammers,
-    1: Sayaka
+    1: Saviour
     1: Save
     1: Satellites?
     1: Satellite-Based
     1: Sapphire
-    1: Sans
-    1: Sanford,
-    1: Sanford
+    1: Santa
+    1: Sanjiv
+    1: Sanders?
+    1: Sanders-Red
+    1: Sanders,
+    1: Sanders's
+    1: Sanders
+    1: Sand?
     1: Sanctuary
     1: San
-    1: Sampaoli
-    1: Sam
+    1: Samples
+    1: Salvador.
     1: Sales
+    1: Salem
+    1: Salah:
     1: Salah
+    1: Sahara
     1: Safety,
-    1: Safety
-    1: Sadr
+    1: Safari
+    1: SQ6
     1: SF
-    1: SEC
-    1: Rússia
+    1: S.C.
+    1: S.
+    1: Ry
+    1: Russia,
     1: Rural
     1: Runs
-    1: Ruling
+    1: Runoff
+    1: Rumored
+    1: Rum
     1: Rules,
     1: Rule:
-    1: Rule
     1: Ruin
-    1: Rugby
-    1: Rufus
-    1: Ruben
+    1: RuPaul's
+    1: Royale
     1: Royal
     1: Rowson
     1: Rover,
-    1: Ross
+    1: Roundup
     1: Roseanne
-    1: Rose
-    1: Rorschach
+    1: Roots
     1: Root
     1: Ronay
+    1: Romney’s
     1: Romelu
+    1: Rolls
     1: Roku,
+    1: Rohingya
     1: Roger
-    1: Rockwell
     1: Rockin'
-    1: Rocket
-    1: Rochester
     1: Robots
-    1: Robinson
-    1: Roberto
+    1: Robotics
+    1: Rob
+    1: Roadster,
     1: Road
-    1: Riverside
-    1: River
+    1: Rising
+    1: Rio?
     1: Ringwald
+    1: Right’
+    1: Right-Wing
     1: Right
+    1: Ridiculously
+    1: Rice's
+    1: Ricardo
     1: Revolution
+    1: Reviews
     1: Review:
-    1: Reveal
+    1: Review
     1: Revamped
-    1: Reunions
-    1: Returns
     1: Returned
     1: Return
     1: Retires
     1: Resupply
     1: Results
     1: Restaurants
+    1: Restaurant,
     1: Responsibility
-    1: Resistance
-    1: Residencies
-    1: Resettlement
-    1: Rescue
-    1: Republicans.
     1: Republicans,
     1: Republican
-    1: Replacing
-    1: Rep.
-    1: Remembering
+    1: Repression
+    1: Reportedly
+    1: Report's
+    1: Repeal
     1: Reliefband’s
     1: Relevance?
+    1: Relationships
     1: Rejuvenate
     1: Reinvent
     1: Regional
-    1: Regarding
     1: Refugiados
-    1: Refugee
-    1: Reddit
-    1: Recoup
+    1: Reducing
+    1: Reduce
     1: Record-Setting
+    1: Reconfigurable
+    1: Recommends:
     1: Receiver
-    1: Rebecca
-    1: Really
+    1: Recaptures
+    1: Recap,
+    1: Rebound
+    1: Rebekah
     1: Reality
-    1: Ready
-    1: Reads
-    1: Reading
+    1: Real?
+    1: Reading:
+    1: Raycom
     1: Ray
     1: Rational
-    1: Rare
+    1: Ratings
     1: Ramp-Up
+    1: Ramaswamy
     1: Raises
-    1: Rainbow
     1: Radical
     1: Radar
-    1: Race
+    1: Racism”
+    1: Rachel
+    1: Race:
     1: RNC
-    1: RIT's
-    1: Quiz:
+    1: RBC,
     1: Quitting
+    1: Quieter
     1: Quiet
     1: Questions,
-    1: Queer
-    1: Queen's
-    1: Queen
+    1: Question
+    1: Quest
+    1: Qualcomm’s
+    1: Qualcomm
     1: Quagmire
+    1: QVC
+    1: Q&A:
     1: Pyramid
     1: Pushing
     1: Pushes
-    1: Purdue
+    1: Purchased
     1: Pump
-    1: Pulled
+    1: Pulses
     1: Puan,
-    1: Pruitt
-    1: Prove
     1: Prototyping
     1: Prototype
-    1: Protests
-    1: Protesting
-    1: Protesters
+    1: Proton
+    1: Protest
     1: Prosthetic
     1: Prosecutors
-    1: Pros
-    1: Property
+    1: Promotes
+    1: Promote
     1: Promised
     1: Projects
-    1: Project
-    1: Proibiram
     1: Product
     1: Produce
-    1: Problem
-    1: Probes
     1: Probe
-    1: Pro
-    1: Prize
-    1: Prix:
-    1: Prix
-    1: Prison
-    1: Prices
+    1: Pro-Palestine
+    1: Prince's
+    1: Primary
     1: Preview
     1: Preventing
-    1: Pressure-Sensing
-    1: Presidential
-    1: President?
-    1: Prescribing
+    1: Prevent
+    1: Pressure
     1: Preparing
     1: Prepares
     1: Preparedness
     1: Prepare
-    1: Premier
     1: Prehistoric
+    1: Pranksters
+    1: Practice
     1: Powers
     1: Potential
     1: Post-Truth
-    1: Post-MiFID
     1: Post-Brexit
-    1: Possible
     1: Positioning
-    1: Posco
-    1: Pornography
-    1: Pop
-    1: Poo
-    1: Polls
+    1: Police
+    1: PolarityTE
     1: Polar
-    1: Poison
+    1: Poland's
     1: Podcasts
     1: Podcast:
     1: Plunge
-    1: Plea
+    1: Playground
+    1: Play
+    1: Platform
     1: Plates
     1: Plastic
     1: Plants
     1: Plans
     1: Planets:
-    1: Plan:
+    1: Planetary
+    1: Plan
+    1: Place
     1: Pipeline
     1: Pikes
     1: Piece
-    1: Picks
-    1: Pickle
+    1: Pick
     1: Physics
     1: Photovoltaics
     1: Photos
     1: Photonic
+    1: Photon
+    1: Photographer
+    1: Philosophy
     1: Pharma
+    1: Ph.D.,
     1: Petrie:
-    1: Pet
-    1: Perverse
+    1: Peter
+    1: Permit
     1: Perfectly
     1: Perfect
     1: Perceptin's
-    1: People's
-    1: People
-    1: Pentagon
-    1: Penny
-    1: Peninsula
+    1: Pentagon:
     1: Pence’s
     1: Penalty
-    1: Pelosi's
     1: Peggy
     1: Pedro
     1: Peak
-    1: Pay
+    1: PayPal
+    1: Paul
+    1: Patty:
     1: Patrick
     1: Path
+    1: Pastime”
     1: Past
     1: Passenger
-    1: Paso
-    1: Partnership
-    1: Parted
-    1: Part
+    1: Parris:
     1: Parmitano
+    1: Parlor
+    1: Parkinson
     1: Parking
     1: Parker
+    1: Park
+    1: Paris
     1: Parents
     1: Parent
     1: Paradox:
-    1: Parade
+    1: Papa
     1: Pao
-    1: Pants”
-    1: Pals
+    1: Panama's
     1: Palmer
     1: Palestinian
-    1: Pakistan
+    1: Palestine
     1: Paddles
-    1: Pack'
-    1: POSCO
-    1: P.MAI’s
-    1: O’Malley
-    1: O’Farrell:
-    1: Oxbow
+    1: Pacific
+    1: PR,
+    1: PM
+    1: PCs
+    1: O’Neill
     1: Own
-    1: Over
+    1: Overstock
     1: Outrage
     1: Outback
-    1: Out-of-town
     1: Our
-    1: Ottolenghi’s
-    1: Other
+    1: Ormond
+    1: Original
     1: Origami
     1: Organic
-    1: Order:
-    1: Order
     1: Orbit
     1: Options
-    1: Optimal
     1: Opportunity:
-    1: Opportunity
     1: Opponents
+    1: Opioid
     1: Operations
     1: Operating
-    1: Open
+    1: OpenAI
+    1: Ontario
     1: Only
+    1: One-pan
+    1: On
     1: Olympic
     1: Olive
     1: Old-Fashioned
+    1: Old
+    1: Ojai
     1: Oil
-    1: Ofo,
+    1: Office
     1: Off
     1: Ode
+    1: Oculus
     1: Occasional
+    1: Obsessive
     1: Observing
-    1: Obrador
+    1: Observer's
     1: Object
-    1: Obama’s
+    1: OS
+    1: OPEC’s
+    1: OK
     1: Não
+    1: Nvidia
+    1: Nutanix
     1: Number.
-    1: Nowhere
+    1: Nuclear
     1: Now
-    1: Novel
-    1: Novak
-    1: Norway's
+    1: Noura
+    1: Notes
+    1: Noted
+    1: Not-so-pretty
     1: Northern
-    1: Noise
+    1: Noose
+    1: Noble
     1: Nobel
     1: No,
-    1: No
-    1: Nitrogen
+    1: Nixie
     1: Nintendo
-    1: Night”
-    1: Nigeria
+    1: Nineteenth
+    1: Nike,
+    1: Nike
+    1: Nigerian
+    1: Nigel
     1: Nielsen
-    1: Nicholson
-    1: Nicaragua,
-    1: Nicaragua
+    1: Nick
     1: Nexus
+    1: Newton's
     1: News’
-    1: Nevada,
+    1: New-home
+    1: Never
     1: Neutron
-    1: Neutrality
+    1: Neuroscience
+    1: Neuralink,
     1: Neural
     1: Network
-    1: Net
+    1: Netflix’s
     1: Nerve
+    1: Neon
+    1: Needs
     1: Need
     1: Nearly
     1: Nearing
     1: Near-Earth
-    1: Nazi
-    1: Naval
-    1: Nauru
-    1: Natus
-    1: National
-    1: Natasha
+    1: Navy
+    1: Navarro
+    1: Nato
+    1: Nashville’s
     1: Narrowly,
     1: Nao
-    1: Nanostructures
-    1: Nancy
-    1: NYC’s
+    1: Nanomaterials
+    1: Name
+    1: NY
+    1: NVIDIA’s
+    1: NSF
+    1: NSA’s
+    1: NSA's
     1: NI
-    1: N-word
-    1: Médecins
-    1: Myth
-    1: Mystics
+    1: NHS'
+    1: NDA
+    1: NASA’s
+    1: NASA's
     1: Mysterious
+    1: My
     1: Must
-    1: Muslims
+    1: Musk’s
     1: Musk,
-    1: Musk's
-    1: Musk
-    1: Murata’s
+    1: Music
+    1: Murderer’
     1: Muon
-    1: Mueller
+    1: Mundo
+    1: Muharrem
     1: Muddling
+    1: Mud
     1: Much?
+    1: Mr
+    1: Movers:
     1: Movement
-    1: Mountain
     1: Moto
     1: Motion
-    1: Mothers
-    1: Moscow,
+    1: Most
     1: Moscow
-    1: Morning,
+    1: Morrisons'
+    1: Morgan
+    1: Moore
     1: Moonwalkers
+    1: Monsoon
+    1: Moneyist:
+    1: Monday,
+    1: Monday's
+    1: Monday
     1: Molly
-    1: Mohamed
-    1: Mobike
-    1: Misfit
+    1: Molecular
+    1: Modeling
+    1: Model
+    1: Mnuchin:
+    1: Mitt
+    1: Misunderstood”
+    1: Miss
     1: Mirrorless
-    1: Mirror,
     1: Mirror
-    1: Miniature
-    1: Mind
+    1: Minister
+    1: Millwall
     1: Millions
+    1: Million
     1: Miller
-    1: Milk
+    1: Millennials
     1: Military
-    1: Milestone
-    1: Middle
+    1: Mike
+    1: Migrant
+    1: Might
+    1: Midtown’s
     1: Microbiome
-    1: Michy
-    1: Mexico’s
+    1: Michael
     1: Mexico's
+    1: Mexican
+    1: Metlife
     1: Methane
-    1: Messi
+    1: MetLife
+    1: Met
     1: Messed
     1: Messaging
-    1: Merrick
-    1: Merchant
-    1: Merchandise,
-    1: Men
+    1: Meru
+    1: Merkel’s
+    1: Mercer’s
     1: Memory
-    1: Members
     1: Melrose
-    1: Medical
+    1: Melania's
+    1: Melania
+    1: Meghan?
+    1: Medtronic,
     1: Media:
     1: Measure
     1: Mean
     1: Me!
-    1: Me
-    1: McGinley
-    1: McArthur
+    1: McPolitics
     1: Maybe
+    1: Max!':
+    1: Maunder
+    1: Mattress
+    1: Mats
+    1: Matrix”
     1: Material,
+    1: MasterCard-branded
     1: Massive
-    1: Massacre:
-    1: Mass
-    1: Martinez
+    1: Mash
+    1: Martian
     1: Mars?
+    1: Marriage?
     1: Marks
-    1: Market
     1: Marines
-    1: Marin
+    1: Marine
     1: Margaret
-    1: Marchers
-    1: March:
-    1: Marathon,
-    1: Mapping
+    1: Map
     1: Many
     1: Manufacturing
-    1: Manuel
     1: Mann’s
-    1: Manners:
-    1: Manchester's
-    1: Manchester
+    1: Manila's
     1: Management
     1: Manafort
-    1: Malta
-    1: Malaysia's
-    1: Makers
-    1: Maintain
+    1: Man
+    1: Malaysia
+    1: Malawi:
+    1: Mail
     1: Magnus
-    1: Maggie
+    1: Magic
     1: Mad.
     1: Macs:
     1: Macroeconomy
-    1: Mackmin:
-    1: Machines
-    1: Macedonians
-    1: MacBooks
-    1: MS-13
-    1: MP
     1: MIMO
-    1: López
+    1: MEPs
+    1: M.D.,
     1: Lunar
+    1: Lululemon,
     1: Lukaku
-    1: Lucky
+    1: Luis
     1: Luckey's
     1: Luca
     1: Low
-    1: Loved
+    1: Louvre,
     1: Lots
     1: Lot
-    1: Looted
-    1: Look
-    1: Loftus-Cheek
+    1: Loophole
+    1: Longtime
+    1: London’s
+    1: London
+    1: Loki
+    1: Logic
     1: Lockheed
+    1: Lock
     1: Locate
     1: Living
     1: Lives
     1: Live:
-    1: Little-Known
     1: Lithium
-    1: Liquid
     1: Lipper
     1: Linking
     1: Link
+    1: Lingard
+    1: Line
+    1: Lincoln
     1: Limitations
-    1: Lime
     1: Liftoff
-    1: Lift
-    1: Lifeguards
-    1: Life-Support
+    1: Lifted
     1: License
     1: Libya
+    1: Library
+    1: Liberty
+    1: Lewis
     1: Levels
     1: Level
-    1: Let
+    1: Letters
+    1: Let's
+    1: Lessons
+    1: Leslie
     1: Les
+    1: Lego
     1: Learns
+    1: Learned
+    1: Leaked,
     1: Leaked
+    1: Leaders
+    1: Layoffs
+    1: Lawless
     1: Law
+    1: Laura
     1: Launching
-    1: Launcher
-    1: Latin
+    1: Latino
     1: Lasers
-    1: Las
+    1: Lanka
     1: Landscape
     1: Lander
-    1: Lampard
-    1: Lake
+    1: Lamborghini
     1: Labels
-    1: Lab,
     1: Lab
     1: LIGO
-    1: Kushner
+    1: LHC
+    1: Kurland
     1: Kuka's
-    1: Kroger
-    1: Koreas
-    1: Konsus
-    1: Kong
+    1: Kosovo
+    1: Korea:
+    1: Korea,
     1: Koko:
-    1: Koko,
     1: Koch
-    1: Kiyoko,
-    1: Kit
     1: Kirstjen
-    1: Kingsbridge
+    1: Kingdom,
+    1: King
     1: Kindle-ized
-    1: Kinda
     1: Kilometre
     1: Killing
+    1: Kicks
     1: Keyboard
     1: Key
     1: Kenya’s
-    1: Kent,
+    1: Katie
     1: Kathmandu's
-    1: Kashmiri
-    1: Kashmir
+    1: Kanye
+    1: Kansas
+    1: Kangaroo
+    1: Kane:
+    1: Kander,
     1: Kagame
-    1: Juárez
+    1: KTU
+    1: KB
+    1: Jülich
+    1: Justine
+    1: Justices
     1: Justice
     1: Jurassic
-    1: Judge
+    1: Junior
     1: Juche
-    1: Jubilee
-    1: Jong-pil
+    1: Jubilant
+    1: Joseph
+    1: Jos
+    1: Jorge
+    1: Jong-pil,
     1: Jong
-    1: Jones:
+    1: Jones’s
     1: Joint
-    1: Job
+    1: Johnson
+    1: Jimmy
     1: Jessie
+    1: Jesse
     1: Jeff
-    1: Jean-Pierre
+    1: Jedi:
+    1: Jay-Z
     1: Javier
-    1: Japanese
+    1: Jason
+    1: Japan’s
     1: Japan's
     1: Jane
     1: James
+    1: Jail
+    1: Jackie
+    1: Jacket
     1: Jacinda
+    1: Jabil,
     1: JAXA
-    1: J
+    1: I’ve
     1: Ivanka
     1: Ivan
     1: It’s
     1: Itself
-    1: Italy
-    1: It.
+    1: Italian
     1: Issue:
+    1: Israeli
+    1: Israel?
+    1: Israel,
     1: Isn't
+    1: Islote:
+    1: Isle
     1: Islands
+    1: Islam,
+    1: Irony
     1: Iran’s
     1: Iranian
     1: IoT
     1: Invisible
     1: Investors,
-    1: Investors
-    1: Investigation
-    1: Inventor
     1: Invent
     1: Introduction
     1: Interstellar
-    1: Interrogating
+    1: Interpol
     1: Interplanetary
     1: Internet?
     1: Interior,
     1: Interference,
     1: Intercept
+    1: Interaction
     1: Intel’s
-    1: Intellectual
+    1: Intel,
+    1: Intel
     1: Integrated
-    1: Instead
+    1: Insulin
+    1: Instax
     1: Inspector
+    1: Inside
+    1: Insecure
     1: Innovative
     1: Innovation?
-    1: Iniesta
+    1: Injured
     1: Ingraham
+    1: Ingalls
     1: Infrasonic
-    1: Information
     1: Influence
     1: Industry
     1: Inductors
     1: Indictment,
     1: Indictment
     1: Indian
-    1: India?
-    1: India's
+    1: India
+    1: Index
     1: Increasingly
-    1: Including
     1: Incentives
     1: Incels
     1: Inbox
     1: Improving
     1: Improved
     1: Improve
-    1: Impressive
     1: Impossible
-    1: Important
+    1: Implantable
     1: Imperfect
     1: Impacted
     1: Immortality:
+    1: Immigrants:
     1: Immigrants
     1: Immigrant
+    1: Imaging
+    1: Images
+    1: Illustrated
+    1: Illicit
     1: Iffy
-    1: Identical
-    1: Iceland
-    1: IS
-    1: IMERG
+    1: Identification
+    1: Ideas,
+    1: Iceland’s
+    1: Iago
     1: III
-    1: II,
-    1: ICYMI:
+    1: II
     1: ICI
+    1: IBM’s
     1: IBM,
-    1: I'm
-    1: Hydrangeas,
-    1: Hus
+    1: Hussein:
     1: Hunter
     1: Hungary,
     1: Hungary
     1: Hundreds
-    1: Humans
-    1: Humanity
     1: Humanitarian
-    1: Hulu,
-    1: Huge
-    1: Huckabee
-    1: Hub
-    1: Hoyer:
-    1: House?
+    1: Hulbert:
+    1: Houthi
     1: House,
     1: Hot
     1: Hosts
     1: Hosting
-    1: Hospitals
-    1: Horne
+    1: Horowitz
     1: Horizon
-    1: Hong
+    1: Hoodies,
     1: Hollywood
-    1: Historic
-    1: Hips
-    1: Hints
-    1: Hindus
-    1: Him—Again
-    1: Himself
+    1: Hit
+    1: Historical
+    1: Hispanic
+    1: Hip-Hop
     1: Him
-    1: Hilton’s
-    1: Highlights
-    1: Highland
+    1: Highflying
     1: High-Speed
     1: High-Level
     1: High
+    1: Higgs
     1: Hides
-    1: Hernandez
+    1: Hertzsprung-Russell
     1: Her
     1: Helping
     1: Help
-    1: Heloise:
-    1: Hedge
+    1: Heathrow's
     1: Heart
-    1: Healthcare
-    1: Health
-    1: Hayley
-    1: Hax:
+    1: He'll
+    1: Hayes
     1: Hawking:
     1: Hawking's
+    1: Having
+    1: Hate
+    1: Hat
     1: Harvests
     1: Harris
-    1: Harley
-    1: Harington
     1: Hardware
     1: Hard
+    1: Hannah
+    1: Hamilton
     1: Hague
     1: Hadron
     1: Had
     1: Hacks
+    1: Hacking
     1: Hackers
     1: Habits
     1: HOW
-    1: HEV
+    1: HBO
+    1: Gynaecologist
+    1: Guy:
+    1: Guy
     1: Guns
+    1: Gunpoint
+    1: Guardian
     1: Guantánamo
     1: Groundwater
-    1: Grenfell
-    1: Greenwich
+    1: Greg
     1: Greenpeace
-    1: Greenford
     1: Green
-    1: Greatest
-    1: Greater
+    1: Gravy’s
     1: Graphene
     1: Grantham's
-    1: Graffiti
+    1: Grant
+    1: Granit
+    1: Grand
+    1: Graduates
     1: Governments,
+    1: Gorilla
     1: Goonhilly
-    1: Google,
-    1: Google
+    1: Google’s
     1: Good,
-    1: Going
-    1: Glow
+    1: Good
+    1: Goldblatt:
+    1: GoPro,
+    1: Go
+    1: Glenn
     1: Giza
     1: Giving
-    1: Give
-    1: Gimmicks
+    1: Gitlab
+    1: Giorgi
     1: Giants
-    1: Giant
     1: Getting;
     1: Gets
-    1: German
+    1: Germany’s
+    1: Germany?
     1: George
-    1: General
     1: Gene-edited
     1: Gene
     1: Geert
     1: Geely
+    1: Geeks
+    1: Gayed
     1: Gave
     1: Gateway
     1: Gareth
     1: Gardner:
     1: Garden
     1: Gaps
+    1: Gamers
+    1: Game:
+    1: Game
+    1: Gambhir,
     1: Galveston
     1: Galileo
-    1: Gaeltacht,
     1: Gadget
     1: GPS—and
     1: GPS,
-    1: GCSEs:
-    1: GA4GH
+    1: GOP
+    1: GE’s
     1: G7
-    1: Funds
+    1: Futures
+    1: Fury
+    1: Further
     1: Funded”
-    1: Fuels
-    1: Frontières
-    1: Front-Runner
+    1: Fujifilm,
+    1: Fujifilm
     1: Friend
+    1: Friday’s
     1: Friday,
     1: Freshwater
     1: Fresh
-    1: Fremont,
     1: Freight
-    1: Free”
     1: Freedom
-    1: FreeTime
-    1: Free
+    1: Free-Speech
+    1: Free!”
     1: Freak
-    1: Frank
-    1: Francisco
+    1: Francisco's
     1: France:
-    1: Foxconn
+    1: France,
+    1: France
     1: FoxNews.com
-    1: Fowler
+    1: Fourth
     1: Four
     1: Fouls
-    1: Former
-    1: Forerunner
+    1: Fortnite
+    1: Formula
     1: Foreign
+    1: Ford's
     1: Forces
-    1: Forced
     1: Force-Feeding,
-    1: Footballer's
-    1: Folly
+    1: Food
     1: Follow
+    1: Focus:
     1: Focus
     1: Flying-Car
     1: Flying
     1: Flow
-    1: Floats
+    1: Florentine
     1: Flight
     1: Flies
+    1: Flee
     1: Flaunts
-    1: Five
+    1: Fixing
+    1: Fix
     1: Fish
-    1: First-of-Its-Kind
+    1: First-Grade
+    1: Firefighting
+    1: Fire
+    1: Finisar,
+    1: Finisar
+    1: Fined
     1: Findings,
     1: Finding
     1: Financial
-    1: Figures
+    1: Finally,
+    1: Finale
     1: Fighter
     1: Fields
     1: Field
     1: Fictional
-    1: Fibers
     1: Fiber
-    1: Few
+    1: Festival
     1: Fermi
-    1: Ferdinand
     1: Feels
-    1: Feel
     1: Feds
+    1: FedEx,
     1: Fed's
     1: Feature
+    1: Fears,
     1: Fathers
+    1: Fate
     1: Fatal
     1: Fasting,
-    1: Fast-Fashion
-    1: Fascism
-    1: Farthing
+    1: Fast
     1: Farmers
     1: Farm
+    1: Farage
     1: Far
+    1: Fans
+    1: Fallon
     1: Fall
     1: Fake
     1: Faith
     1: Failed
+    1: Fail
     1: Faces
     1: Facebook,
     1: Face
+    1: FDA
     1: FCC’s
+    1: FB
     1: FAA
+    1: FA
     1: Eyes
     1: Extradited
-    1: Explosion
+    1: Express
     1: Exploration
     1: Exploding
     1: Experts
@@ -3467,543 +3960,586 @@ Title Word Frequencies:
     1: Experiment
     1: Expedition
     1: Expands
-    1: Exiled
-    1: Executive
+    1: Execution
     1: Exec
     1: Exclusive:
+    1: Exams
+    1: Ex-Trump
+    1: Ex-State
+    1: Ex-Nato
     1: Ex-Fitbit
-    1: Ex-Diplomat
     1: Everywhere,
     1: Every
+    1: Ever
     1: Even
-    1: Eurozone
     1: Europa,
     1: Europa
-    1: Ethiopia:
-    1: Ethiopia
-    1: Ethically
     1: Ethical
-    1: Eternal
-    1: Etching
+    1: Essays
+    1: Essay
+    1: Essam
     1: Escalates
-    1: Erdogan,
+    1: Escalate
+    1: Erik
     1: Erdogan's
-    1: Erdogan
     1: Era
+    1: Equality
+    1: Episode
+    1: Enzyme
     1: Environmental
     1: Enterprises
     1: Ensuring
-    1: Enquanto
     1: English
-    1: Engineering
+    1: England,
+    1: Engineers
     1: Engineered
+    1: Enforcement
+    1: Energy,
     1: Energy"
     1: Encryption
     1: Encrypted
-    1: Encounter
+    1: Encouraged
     1: Enceladus,
-    1: Employees
-    1: Empain
-    1: Emmys
-    1: Emmerson
+    1: Empire
+    1: Emotional
     1: Emissions—and
+    1: Emil
     1: Emerges—The
+    1: Emails,
     1: Email
-    1: Eloquence
-    1: Elliot'
+    1: Elon's
     1: Ellen
     1: Eliminating
+    1: Elevate
     1: Elementary,
-    1: Electrifying
-    1: Electrical
+    1: Election,
+    1: El-Hadary
     1: El
     1: Einstein's
-    1: Eight-Year-Old
-    1: Egypt's
+    1: Efficient,
     1: Efficiency
-    1: Eerie
-    1: Edouard-Jean
+    1: Effects
+    1: Editorial
     1: Ecosystem
+    1: Economy
     1: Economic
     1: Echo's
-    1: Ebola's
     1: Ebola
     1: Eating
-    1: Eat
     1: Easter
     1: Earth's
     1: Each
-    1: EV
-    1: EUA.
-    1: EUA
-    1: ETFs
     1: ESA’s
-    1: E.R.
-    1: E
-    1: Dying
+    1: Dylan’s
     1: Dust
     1: During
     1: Duque
     1: Dunes
-    1: Duluth,
+    1: Dullien
+    1: DuPont,
+    1: Drury
     1: Drug
     1: Drones?
-    1: Drives
-    1: Drive
+    1: Driverless
+    1: Dreamliner
     1: Dream
     1: Dragon
+    1: Drag
     1: Dozens
     1: Down
-    1: Dowling:
+    1: Dow,
     1: Doug
     1: Doublespeak
     1: Dotson
     1: Door:
-    1: Dominate
-    1: Dominance
-    1: Domain
-    1: Doesn’t
+    1: Don’t
+    1: Done
+    1: Don't
+    1: Don
     1: Does
+    1: Dodge
     1: Documents
-    1: Djokovic
+    1: Doctors
+    1: Doctor
+    1: Dixon
+    1: Divisions
     1: Divine?
+    1: Disrupts
     1: Disrupt
     1: Displays
+    1: Display
     1: Disneyland
     1: Disney
-    1: Dishonest
     1: Disease
-    1: Discuss
-    1: Disclosures
-    1: Disbelief
+    1: Discouraged,
+    1: Disadvantage
     1: Directive-3
+    1: Direction?
     1: Direct
+    1: DirecTV
     1: Diplomacy
-    1: Dioxide
-    1: Dior
-    1: Digitalisation
-    1: Dies
-    1: Did
-    1: Diamond
+    1: Diagram
+    1: Dhillon
     1: Devices,
     1: Development,
     1: Develop
-    1: Detention
     1: Detects
     1: Detection
     1: Detect
     1: Destroyers
     1: Destroyer
-    1: Department
-    1: Denver
+    1: Despite
+    1: Design
+    1: Deserves
     1: Denuclearize
     1: Demonstrates
-    1: Democratic
     1: Democracy
     1: Demand
+    1: Delivers
+    1: Delivering
     1: Deliver
-    1: Dele
+    1: Definition
     1: Defends
     1: Deeply
     1: Deepfakes
     1: DeepMind
-    1: Decellularized
     1: Decades-Old
-    1: Decades
     1: Debut
     1: Debris
     1: Debora
     1: Debating
-    1: Death
     1: Deals:
+    1: Deal
     1: Deadlines
     1: Day
-    1: Dawn
-    1: David
+    1: Davis
+    1: Daulatzai
+    1: Daughters
+    1: Database
+    1: Dassey,
     1: Darpa
-    1: Darcy,
+    1: Daniels
     1: Dams
     1: Damn
     1: Damage
-    1: Dakota
-    1: DRC
-    1: DNA
-    1: Cynical
+    1: DOE
+    1: DARPA’s
+    1: D.C.
+    1: Cybersecurity
     1: Cyber
     1: Cyan
     1: Cuttlefish
     1: Cut
-    1: Curry
+    1: Curving
     1: Currency
+    1: Currencies:
     1: Curmudgeons
     1: Curiosity
-    1: Cup’
     1: Cup:
     1: Cup,
-    1: Cuomo
+    1: Cup's
+    1: Culture
     1: Cubes
     1: CubeSats
     1: Crypto
-    1: Cross
+    1: Cruz
+    1: Crown
     1: Crohn's
+    1: Croatia
     1: Criticizes
+    1: Criticism
+    1: Cristiano
     1: Crime
     1: Creepy
-    1: Creators
-    1: Creates
+    1: Creature
     1: Created
-    1: Create
+    1: Crazy
     1: Crashes
-    1: Crash
     1: Crank
+    1: Crackdown
+    1: Crace
     1: Crab
-    1: Coutinho,
-    1: Coutinho
-    1: Couple
-    1: Country
+    1: Covidien,
+    1: Court:
+    1: Country's
     1: Couldn’t
     1: Costs
     1: Cosmonauts
     1: Cosmetic
     1: Corners
-    1: Coral
+    1: Corner:
+    1: Copa
+    1: Coop
     1: Cooling
     1: Cool
-    1: Convicted
+    1: Cooder
     1: Controlling
-    1: Control
     1: Contributions
+    1: Content
     1: Constellation
+    1: Consolidates
     1: Considering
-    1: Consequences
-    1: Congress’s
+    1: Congressional
     1: Congress
-    1: Confronting
-    1: Conducted
+    1: Conference
+    1: Concentration
+    1: Computers
+    1: Compromised
     1: Compositions,
     1: Complicate
-    1: Completes
-    1: Completely
-    1: Community
+    1: Complexity
+    1: Complain
+    1: Commons
+    1: Commodities
     1: Comey,
     1: Come
     1: Comcast-Disney
     1: Combine
     1: Combat
-    1: Coly
-    1: Color
+    1: Colombian
     1: Collision
     1: Collider
-    1: College
-    1: Coffee
+    1: Collection
+    1: Cold
+    1: Cohen
+    1: Coca-Cola
     1: Co-Bots,
     1: Clusters
     1: Clues
+    1: Cloud
+    1: Closing
+    1: Clips
     1: Climate
-    1: Click
     1: Clearance
     1: Clean
+    1: Classroom
     1: Civic
-    1: Ciudad
-    1: Citymapper
     1: City:
-    1: Cities
-    1: Cissé:
+    1: City's
+    1: City
+    1: Citron
+    1: Citizen
+    1: Cirrus
+    1: Circus
     1: Circuits
-    1: Cilic
+    1: Ciena
     1: Church
     1: Chuck
-    1: Christian
-    1: Chip
-    1: Children.
+    1: Chromebooks
+    1: Chromebook
+    1: Chrome
+    1: Chris
+    1: Chitra
+    1: Chirp
+    1: Children
     1: Child
+    1: Chicken
     1: Chicago
-    1: Chemtech
+    1: Cheeseburger
     1: Checks
-    1: Chechnya'
+    1: Cheating
+    1: Charter
+    1: Chart:
     1: Charlie
-    1: Charlemagne
-    1: Charges
+    1: Chaotic
     1: Channel
     1: Changing
     1: Changes
-    1: Change
     1: Chamber
-    1: Challenge
     1: Certification
+    1: Cephalopod
     1: Central
+    1: Center:
     1: Cellphone
-    1: Celebrates
     1: Celebrate
-    1: Caveats
-    1: Catch-22
+    1: Cease-Fire
+    1: Cautionary
+    1: Catch-up:
+    1: Casualties
     1: Casting
-    1: Cartoon
-    1: Cars—With
+    1: Cassen
+    1: Cartoons
+    1: Cars
     1: Carpenter,
     1: Carpenter
-    1: Carolyn
-    1: Carolina
+    1: Caroline
+    1: Carole
+    1: Carnival's
     1: Cargo
-    1: Care
-    1: Capacity”:
-    1: Canada
+    1: Care'
+    1: Cardi
+    1: Card
+    1: Carbon
+    1: Car
+    1: Capturing
+    1: Captures
+    1: Can’t
+    1: Can't
+    1: Camps
     1: Campaign
-    1: Camera
-    1: Came
-    1: Cambridgeshire
-    1: Cambridge
-    1: Cambodia:
+    1: Camila
+    1: Cameroon:
+    1: Calvary
     1: Californians
     1: Caldwell
     1: Cage
-    1: Cafe?
-    1: CSU
+    1: Cadwalladr
+    1: Cabinet
+    1: CRISPR
+    1: CNN
+    1: CFPB
     1: CES
     1: CERN
-    1: CDRs
-    1: CAR
-    1: Byrne
+    1: CEOs
     1: By
+    1: Buttler:
     1: Bust
     1: Business—It's
-    1: Burning
-    1: Bulawayo
+    1: Burnham’s
+    1: Burghfield
     1: Built
     1: Bug,
     1: Buenos
     1: Budgets
-    1: Bruce
+    1: Buddhist
     1: Brown
-    1: Brothers
     1: Brooklyn
     1: Broadband
+    1: Britain’s
+    1: Britain's
     1: Britain
+    1: Briefly
     1: Briefing
-    1: Brief
     1: Bridge
-    1: Brian
-    1: Brexit:
-    1: Brexit,
-    1: Brew
-    1: Breathe
+    1: Brent,
+    1: Brent
+    1: Brendan
     1: Breakthroughs
+    1: Breaks
+    1: Breaking
     1: Breadbox
-    1: Brazil’s
-    1: Brazil
     1: Brawls
-    1: Brasil
     1: Brains
     1: Boys
-    1: Boy
+    1: Boyfriend
+    1: Boy,
     1: Box
     1: Bought
     1: Both
+    1: Boson
+    1: Born
+    1: Boris?–
+    1: Boris?'
     1: Boris
     1: Boring
     1: Borders”—But
-    1: Border,
+    1: Booze
+    1: Books
+    1: BookWatch:
     1: Book
-    1: Bombardier,
-    1: Bolton
+    1: Bonds
+    1: Boeing
     1: Bob
     1: Board
+    1: Bo
     1: Blue.
     1: Blow
-    1: Blood
-    1: Blockchain
-    1: Blitt’s
-    1: Blind
+    1: Blobs
     1: Bleus
-    1: Blackwell’s
+    1: Blacklists
+    1: BlackBerry,
     1: Black
-    1: Bitfinex
     1: Birmingham's
-    1: Birds
-    1: Biorenewable,
-    1: Binge-reading
+    1: Bird
+    1: Bionic
     1: Binge
     1: Binds—and
-    1: Bible
+    1: Bid
     1: Bezos,
+    1: Beyond,
     1: Better
-    1: Benefit
-    1: Bemba
-    1: Being
+    1: Berkeley
+    1: Benedict
+    1: Ben's
+    1: Belgium?
+    1: Beiranvand
     1: Beijing
     1: Begins
+    1: Beginning
     1: Before
     1: Beetle:
     1: Been
-    1: Becker?
+    1: Bed
+    1: Become
+    1: Beck's
     1: Because
     1: Beauty
-    1: Beaumont
+    1: Beat
+    1: Bear
     1: Beaming
     1: Beacon
-    1: Beach
+    1: Bay
     1: Battling
-    1: Battle
+    1: Battlefield
     1: Batteries,
     1: Batteries
-    1: Batshuayi's
-    1: Batman
-    1: Basel
-    1: Bar’s
-    1: Barry
+    1: Bath
     1: Barrios-Vasquez
     1: Barr
-    1: Baron
     1: Barney
+    1: Barnes
     1: Barentsen,
     1: Barchan
     1: Barcelona:
-    1: Bannockburn
-    1: Banks’s
-    1: Bank
-    1: Ban
+    1: Bangladesh
     1: Ballmers
     1: Ball
     1: Balance
-    1: Bad
-    1: Back.
-    1: BAMcinemaFest
-    1: Azealia
+    1: Back?
+    1: Babies
+    1: BET
+    1: BBC
+    1: Azure
     1: Awarded
     1: Automotive
-    1: Australian
-    1: Auschwitz
+    1: Automation
+    1: AutoFill
+    1: Authentication
+    1: Australia's
     1: Aurora
     1: Atwood
     1: Attorney
+    1: Attempt
     1: Attack
     1: Atmospheres
     1: Atlântico
-    1: Atavist
-    1: Asylum
     1: Astronomy
     1: Astronaut
     1: Astra
     1: Asteroid
-    1: Assédio
     1: Association’s
-    1: Association
-    1: Assassination
+    1: Aspas
     1: Asleep
-    1: Ask
-    1: Ascot
+    1: Asian
     1: As
     1: Artificial
-    1: Arrington:
-    1: Arrington,
+    1: Arrington
     1: Arrestors
     1: Array
     1: Arms
-    1: Armageddon
-    1: Arguments,
     1: Arguing
+    1: Argentina?
+    1: Argentina
     1: Aren’t
     1: Areas
-    1: Ardern's
-    1: Arctic
-    1: Arabia’
-    1: Arabia's
-    1: Aquarius:
+    1: Ardern
+    1: Arabia’s
+    1: Arabian
+    1: Arabia'
     1: Apps
-    1: Apple’s
     1: Apple's
     1: Appetite
-    1: Apparent
+    1: AppNexus
     1: App,
-    1: App
-    1: Apology
-    1: Antiquities
-    1: Antibiotics
+    1: Apollo,
+    1: Any
+    1: Anxiety
+    1: Antidote
     1: Antibiotic
     1: Anti-pollution
     1: Antennas
     1: Antarctic
     1: Answers
-    1: Annoying
     1: Announcing
     1: Announce
     1: Annie
     1: Anna
+    1: Anker
     1: Animals'
-    1: Angsty
+    1: Angry
     1: Anduril,
-    1: And
+    1: Android
+    1: Andreessen
     1: Ancient
     1: Analytics
-    1: Analytical
-    1: Amy:
+    1: Amrit
     1: Among
     1: Amid
-    1: America!:
+    1: American,
+    1: America,
+    1: America's
+    1: Amazon,
+    1: Always
     1: Also
     1: Already
     1: Alphabet's
+    1: Alone
     1: Almost
-    1: Alli
     1: Alleged
     1: All-in-one
-    1: Aliou
     1: Aliens
+    1: Alibaba,
+    1: Alguém
+    1: Algeria
     1: Alford
     1: Alaska
-    1: Akon's
-    1: Akon
+    1: Airstrikes
+    1: Airport:
     1: Airplanes,
     1: Airplane
     1: Airliners
     1: Aires
     1: Airbus
     1: AirVenture
+    1: AirPods,
+    1: AirPod
     1: Aim
-    1: Ahead:
-    1: Ages
     1: Agent
+    1: Agencies
     1: Age
-    1: Against
     1: Again
-    1: After
     1: African
     1: Afghan
-    1: Affordable
-    1: Afford
     1: Aero’s
     1: Aerospace
+    1: Advisors
     1: Adviser
+    1: Advent
     1: Advance
+    1: Adobe
     1: Administrator
+    1: Administration’s
+    1: Adim's
+    1: Adam
     1: Ad
     1: Activity
+    1: Action
     1: Across
     1: Achieve
+    1: Acer
     1: Accuses
-    1: Accountability
     1: Accessing
     1: Accent-Riddled
-    1: Accel
     1: Abusive
-    1: Abused
     1: Absurdity
-    1: Abbas
-    1: Abandoned
-    1: Abadi,
-    1: API
+    1: Able
+    1: Abbey
+    1: ARM-Based
     1: AMD
-    1: AKoin
+    1: ACLU
     1: ABC
     1: A7
-    1: A-level
+    1: A&W
     1: 99
+    1: 92
     1: 911
-    1: 9-1
+    1: 87
+    1: 8-day
     1: 70%
+    1: 7-X
     1: 7
     1: 66
-    1: 63,000
+    1: 6/22/2018
     1: 6/21/2018
     1: 6/20/2018
     1: 6/19/2018
@@ -4013,107 +4549,123 @@ Title Word Frequencies:
     1: 6/13/2018
     1: 6/12/2018
     1: 6/11/2018
-    1: 6/08/2018
-    1: 550
-    1: 50th
-    1: 500
-    1: 5-Year-Old
-    1: 4th
-    1: 45
+    1: 6-1
+    1: 6
+    1: 57%
+    1: 501-day
+    1: 49th
     1: 44
-    1: 4-18
-    1: 3D
-    1: 36-18
-    1: 35
-    1: 33
-    1: 3,000
-    1: 25-10
+    1: 312
+    1: 30C
+    1: 3.1
+    1: 3,
+    1: 2—And
+    1: 25th
     1: 25
-    1: 23
+    1: 24
     1: 22nd
-    1: 22-24,
-    1: 22
-    1: 21st
     1: 2022
     1: 2021
+    1: 2020
     1: 2019
-    1: 2011
-    1: 2006.
-    1: 20%
-    1: 2-0
-    1: 2
-    1: 1MDB
+    1: 2016,
+    1: 2012
+    1: 200-day
+    1: 20
+    1: 2-Factor
+    1: 2-2
+    1: 2-1
+    1: 2,053
+    1: 2,000
+    1: 2,
     1: 19th-Century
-    1: 19th
-    1: 195kg
+    1: 1950s:
+    1: 1948
+    1: 1930s
+    1: 192
     1: 19,
     1: 18th
-    1: 16
-    1: 155
-    1: 15-44
+    1: 180
+    1: 18
+    1: 165mph
     1: 15'
-    1: 127-year-old
-    1: 125
-    1: 120
-    1: 12,
-    1: 1000
-    1: 1,000
-    1: 1
-    1: --
-    1: (video)
-    1: (2018)
-    1: 'zero
-    1: 'too
-    1: 'tech
+    1: 12
+    1: 11
+    1: 10?
+    1: 10:
+    1: 102nd
+    1: 100GW
+    1: 1000,”
+    1: 10-year
+    1: 10-man
+    1: /r/Technology
+    1: *Is*
+    1: (that
+    1: 'untrained'
+    1: 'stolen
     1: 'should
-    1: 'safety'
-    1: 'real-life
-    1: 'ready
-    1: 'on
-    1: 'leaked
-    1: 'knew
-    1: 'kills
-    1: 'inches'
-    1: 'honorary
-    1: 'gay
-    1: 'film
-    1: 'fight'
+    1: 'prostitution'
+    1: 'presumed
+    1: 'loving
+    1: 'listened
+    1: 'largest
+    1: 'junk
+    1: 'hate
+    1: 'fraud'
+    1: 'forgotten'
+    1: 'fear
     1: 'face
+    1: 'eagle
     1: 'drama':
-    1: 'create
-    1: 'coming
-    1: 'chilling
-    1: 'brutal
-    1: 'You
+    1: 'difficult
+    1: 'didn't
+    1: 'climate'
+    1: 'civility'
+    1: 'calls
+    1: 'bring
+    1: 'bait-and-switch'
+    1: 'asks'
+    1: 'You're
     1: 'Why
-    1: 'Where
-    1: 'We
-    1: 'Thrilled
-    1: 'Stealth'
-    1: 'Soul
-    1: 'Shame,
-    1: 'Roseanne'
+    1: 'Where's
+    1: 'Westworld'?
+    1: 'There
+    1: 'Space
+    1: 'Set
+    1: 'Really
+    1: 'Rapists,
     1: 'Philanthropy'
+    1: 'Organised
     1: 'Me
+    1: 'Magical':
     1: 'Internet
-    1: 'He
+    1: 'Hoping
     1: 'Fortnite'
-    1: 'Everyone's
+    1: 'Excited
     1: 'Dumpling-shaped'
-    1: 'Conscientious
-    1: 'Billy
+    1: 'Dumb,
+    1: 'Bachelorette'
     1: 'Baby'
-    1: &
+    1: 'An
+    1: 'A
     1: $7.54
+    1: $5bn
     1: $51
-    1: $4.6
+    1: $5.6
+    1: $5
+    1: $310
     1: $300
     1: $3.9
+    1: $3.65
+    1: $3.25
+    1: $200m
     1: $20
     1: $2
     1: $18M
-    1: $1,500
+    1: $159
     1: #MeToo,
     1: #ChurchToo
+    1: "parts
     1: "Internet
+    1: "Facebook
     1: "Chiplet"
