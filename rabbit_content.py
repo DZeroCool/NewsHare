@@ -48,6 +48,16 @@ http://xkcd.com/atom.xml
 http://feeds.arstechnica.com/arstechnica/index/
 http://feeds.gawker.com/lifehacker/full
 https://www.reddit.com/r/technology/.rss
+https://www.economist.com/sections/business-finance/rss.xml
+https://www.economist.com/sections/economics/rss.xml
+https://www.economist.com/sections/science-technology/rss.xml
+https://www.economist.com/latest-updates
+https://www.economist.com/sections/united-states/rss.xml
+https://www.economist.com/sections/china/rss.xml
+https://www.economist.com/sections/americas/rss.xml
+https://www.economist.com/sections/international/rss.xml
+https://www.economist.com/sections/europe/rss.xml
+https://www.economist.com/sections/asia/rss.xml
 """
 
 categories, txt_categories, dict_categories = [], [], {}
